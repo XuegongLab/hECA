@@ -44,7 +44,7 @@ The microscope level annotations describe the histological type (the “tissue_t
 
 # Visulization
 
-Use [Protege](https://protege.stanford.edu/) to visulization the tree structure of UHAF.
+Use [Protege](https://protege.stanford.edu/) to visulize the tree structure of UHAF.
 
 
 # Reference
