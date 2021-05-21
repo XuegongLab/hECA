@@ -1,4 +1,4 @@
-Unified Hierarchical Cell Annotation Framework (UHAF)
+**U**nified **H**ierarchical Cell **A**nnotation **F**ramework (UHAF)
 ========
 
 # Introduction
@@ -10,34 +10,34 @@ We designed the structured vocabulary in macroscope level and the microscope lev
 
 The macroscope level mainly containing anatomical information including system, organ, region, subregion:
 - Human body
-        - System
-                - Organ
-                        - Region
-                                - Subregion 
+  - System
+    - Organ
+      - Region
+        - Subregion 
 > For example:
 - Human body
-        - Cardiovascular system
-                - Heart
-                        - Atrium
-                                - Left atrium
-                                - Right atrium
+  - Cardiovascular system
+    - Heart
+      - Atrium
+        - Left atrium
+        - Right atrium
 -------
 
 
 ### Microscope ontology
 The microscope level annotations describe the histological type (the “tissue_type”) and the cellular identities (the “cell_type”) that arise from the molecular heterogeneities of the cells.
 - Cell
-        - Tissue_type
-                - Cell_type
+  - Tissue_type
+    - Cell_type
 > For example:
 - Cell
-        - Tissue_type
-                - Hematocyte
-                        - Leukocyte
-                                - Lymphocyte
-                                        - T cell
-                                                - CD4 T cell
-                                                - CD8 T cell
+  - Tissue_type
+    - Hematocyte
+      - Leukocyte
+        - Lymphocyte
+           - T cell
+             - CD4 T cell
+             - CD8 T cell
 -------
 
 
