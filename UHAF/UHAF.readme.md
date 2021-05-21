@@ -49,8 +49,8 @@ Use [Protege](https://protege.stanford.edu/) to visulization the tree structure 
 
 # Reference
 
-- *Junqueira's Basic Histology text & atlas (13th EDITON)* 
-- *组织学与胚胎学 第3版 北医教材_唐军民，张雷主编2014（彩图）* 
-- *《系统解剖学》人卫第9版教材--高清彩* 
-- *《组织学与胚胎学》人卫第9版教材--高清彩色*
+1. *Junqueira's Basic Histology text & atlas (13th EDITON).* 
+2. *唐君民, 张雷等. 组织学与胚胎学(第3版)[M]. 北京: 北京大学医学出版社, 2013.* 
+3. *柏树令, 应大军等. 系统解剖学(第3版)[M]. 北京: 人民卫生出版社, 2015.* 
+4. *《组织学与胚胎学》人卫第9版教材--高清彩色*
 
