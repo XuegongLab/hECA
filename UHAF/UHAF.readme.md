@@ -31,7 +31,7 @@ The microscope level annotations describe the histological type (the “tissue_t
     - Cell_type
 > For example:
 - Cell
-  - Tissue_type
+  - Connective tissue
     - Hematocyte
       - Leukocyte
         - Lymphocyte
