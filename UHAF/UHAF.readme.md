@@ -8,7 +8,7 @@ We designed the structured vocabulary in macroscope level and the microscope lev
 
 ### Macroscope ontology
 
-The macroscope level mainly containing anatomical information including system, organ, region, subregion:
+The macroscope level mainly containing anatomical information including system, organ, region, subregion.
 - Human body
   - System
     - Organ
@@ -49,8 +49,8 @@ Use [Protege](https://protege.stanford.edu/) to visulize the tree structure of U
 
 # Reference
 
-1. *Junqueira's Basic Histology text & atlas (13th EDITON).* 
-2. *唐君民, 张雷等. 组织学与胚胎学(第3版)[M]. 北京: 北京大学医学出版社, 2013.* 
-3. *柏树令, 应大军等. 系统解剖学(第3版)[M]. 北京: 人民卫生出版社, 2015.* 
-4. *组织学与胚胎学(第9版). 北京：人民卫生出版社, 2015*
+1. *柏树令，应大军 (2015). 系统解剖学, 3 edn (北京: 人民卫生出版社).*
+2. *李继承，曾园山 (2018). 组织学与胚胎学, 9 edn (人民卫生出版社).*
+3. *唐军民，张雷 (2013). 组织学与胚胎学, 3 edn (北京: 北京大学医学出版社).*
+4. *Mescher, A.L. (2016). Junqueira’s Basic Histology Text and Atlas, 13 edn (McGraw-Hill).*
 
