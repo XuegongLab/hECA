@@ -42,6 +42,17 @@ The microscope level annotations describe the histological type (the “tissue_t
 -------
 
 
+# File table 
+| File name | Description |
+| --------- | ----------- |
+| "UHAF macro ontology.owl" | Macroscopic ontology |
+| "UHAF micro ontology.owl" | Microscopic ontology |
+| "UHAF tree.pdf" | The connection between macroscopic and microscopic ontology |
+| "UHAF macro-micro map.csv" | The connection between macroscopic and microscopic ontology, only containing the observed cell type in hECA v1.0 |
+| "UHAF marker reference.xlsx" | The marker reference list for UHAF annotation, each sheet is one organ |
+| "UHAF-CL map.csv" | The connection between UHAF annotation and Cell Ontology annotation, only containing the observed cell type in hECA v1.0 |
+
+
 # Visulization
 
 Use [Protege](https://protege.stanford.edu/) to visulize the tree structure of UHAF.
