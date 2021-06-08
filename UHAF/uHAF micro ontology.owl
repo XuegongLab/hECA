@@ -1,0 +1,1984 @@
+format-version: 1.2
+ontology: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20
+
+[Term]
+id: 5HT3aRExpressingNeuron
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "5HT3aR expressing neuron" xsd:string
+
+[Term]
+id: Acidophil
+is_a: EpithelialTissue
+property_value: id "Acidophil" xsd:string
+
+[Term]
+id: AcinarCell
+is_a: EpithelialTissue
+is_a: Epithelium
+is_a: ExocrineCell
+property_value: id "Acinar cell" xsd:string
+
+[Term]
+id: Adipocyte
+is_a: StromalCell
+property_value: id "Adipocyte" xsd:string
+
+[Term]
+id: Agranulocyte
+is_a: Leukocyte
+property_value: id "Agranulocyte" xsd:string
+
+[Term]
+id: AlphaCell
+is_a: EndocrineGland
+property_value: id "Alpha cell" xsd:string
+
+[Term]
+id: Alveolarmacrophage(Dustcell)
+is_a: Macrophage
+property_value: id "Alveolar macrophage(Dust cell)" xsd:string
+
+[Term]
+id: AmacrineCell
+is_a: BipolarCell
+property_value: id "Amacrine cell" xsd:string
+
+[Term]
+id: Ameloblast
+is_a: ConnectiveTissue
+property_value: id "Ameloblast" xsd:string
+
+[Term]
+id: Aminergicneuron
+is_a: Neuron
+property_value: id "Aminergicneuron" xsd:string
+
+[Term]
+id: AminoAcidNeuron
+is_a: Neuron
+property_value: id "Amino acid neuron" xsd:string
+
+[Term]
+id: AmnionCell
+is_a: EpithelialCell
+property_value: id "Amnion cell" xsd:string
+
+[Term]
+id: AntigenPresentingCell
+is_a: Hemocyte
+property_value: id "Antigen presenting cell" xsd:string
+
+[Term]
+id: ApocrienSweatGlandCell
+is_a: SweatGlandCell
+property_value: id "Apocrien sweat gland cell" xsd:string
+
+[Term]
+id: ArrectorPiliMuscle
+is_a: SmoothMuscleCell
+property_value: id "Arrector pili muscle" xsd:string
+
+[Term]
+id: Astrocyte
+is_a: GlialCell(non-neuronalcell)
+is_a: IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+is_a: NeuroglialCell
+property_value: id "Astrocyte" xsd:string
+
+[Term]
+id: AutonomicNervousSystem
+is_a: NerveTissue
+property_value: id "Autonomic nervous system" xsd:string
+
+[Term]
+id: B-1Cell
+is_a: BCell
+property_value: id "B-1 cell" xsd:string
+
+[Term]
+id: B-2Cell
+is_a: BCell
+property_value: id "B-2 cell" xsd:string
+
+[Term]
+id: BCell
+is_a: InnateLymphocyte
+is_a: Lymphocyte
+property_value: id "B Cell" xsd:string
+property_value: id "B cell" xsd:string
+
+[Term]
+id: BasalCell
+is_a: EpithelialCell
+is_a: GlandularEpithelium
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+is_a: SimpleCuboidalCiliatedEpithelium
+property_value: id "Basal cell" xsd:string
+
+[Term]
+id: BasalDecidualCell
+is_a: EpithelialCell
+property_value: id "Basal decidual cell" xsd:string
+
+[Term]
+id: BasalMembraneCell
+is_a: EpithelialCell
+property_value: id "Basal membrane cell" xsd:string
+
+[Term]
+id: BasalStemCell
+is_a: Neuron
+property_value: id "Basal stem cell" xsd:string
+
+[Term]
+id: BasketCell
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "Basket cell" xsd:string
+
+[Term]
+id: BasophilicErythroblast
+is_a: ConnectiveTissue
+property_value: id "Basophilic erythroblast" xsd:string
+
+[Term]
+id: BasophilicGranulocyte
+is_a: Granulocyte
+property_value: id "Basophilic granulocyte" xsd:string
+
+[Term]
+id: BasophilicMetamyelocyte
+is_a: ConnectiveTissue
+property_value: id "Basophilic metamyelocyte" xsd:string
+
+[Term]
+id: BasophilicMyelocyte
+is_a: ConnectiveTissue
+property_value: id "Basophilic myelocyte" xsd:string
+
+[Term]
+id: BetaCell
+is_a: EndocrineGland
+property_value: id "Beta cell" xsd:string
+
+[Term]
+id: BipolarCell
+is_a: SensoryNeuron
+property_value: id "Bipolar cell" xsd:string
+
+[Term]
+id: BrushCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+is_a: SimpleCuboidalCiliatedEpithelium
+property_value: id "Brush cell" xsd:string
+
+[Term]
+id: CD4TCell
+is_a: TCell
+property_value: id "CD4 T cell" xsd:string
+
+[Term]
+id: CD8TCell
+is_a: TCell
+property_value: id "CD8 T cell" xsd:string
+
+[Term]
+id: CapillaryBasalMembraneCell
+is_a: BasalMembraneCell
+property_value: id "Capillary basal membrane cell" xsd:string
+
+[Term]
+id: CapillaryEndothelialCell
+is_a: EndothelialCell
+property_value: id "Capillary endothelial cell" xsd:string
+
+[Term]
+id: CardiacGland
+is_a: GlandularEpithelium
+property_value: id "Cardiac gland" xsd:string
+
+[Term]
+id: CardiomyocyteCell
+is_a: MuscleCell
+property_value: id "Cardiomyocyte cell" xsd:string
+
+[Term]
+id: Cementocyte
+is_a: ConnectiveTissue
+property_value: id "Cementocyte" xsd:string
+
+[Term]
+id: CentroacinarCell
+is_a: ExocrineCell
+property_value: id "Centroacinar cell" xsd:string
+
+[Term]
+id: CentrocyteBCell
+is_a: BCell
+property_value: id "Centrocyte B cell" xsd:string
+
+[Term]
+id: ChiefCell
+is_a: FundicGland
+property_value: id "Chief cell" xsd:string
+
+[Term]
+id: Cholangiocyte
+is_a: EpithelialCell
+property_value: id "Cholangiocyte" xsd:string
+
+[Term]
+id: CholinergicNeuron
+is_a: AminoAcidNeuron
+is_a: Neuron
+property_value: id "Cholinergic neuron" xsd:string
+
+[Term]
+id: Chondroblast
+is_a: ConnectiveTissue
+property_value: id "Chondroblast" xsd:string
+
+[Term]
+id: Chondrocyte
+is_a: ConnectiveTissue
+property_value: id "Chondrocyte" xsd:string
+
+[Term]
+id: ChromaffinCell
+is_a: EpithelialTissue
+property_value: id "Chromaffin cell" xsd:string
+
+[Term]
+id: Chromophobe
+is_a: EpithelialTissue
+property_value: id "Chromophobe" xsd:string
+
+[Term]
+id: CiliatedCell
+is_a: EpithelialCell
+is_a: SimpleColumnarEpithelialCell
+property_value: id "Ciliated cell" xsd:string
+
+[Term]
+id: CiliatedColumnarCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+property_value: id "Ciliated columnar cell" xsd:string
+
+[Term]
+id: ClearCell
+is_a: EccrineSweatGlandCell
+property_value: id "Clear cell" xsd:string
+
+[Term]
+id: CollectingDuct
+is_a: SimpleCuboidalEpithelium
+property_value: id "Collecting duct" xsd:string
+
+[Term]
+id: Colonocyte
+is_a: SimpleColumnarEpithelium
+property_value: id "Colonocyte" xsd:string
+
+[Term]
+id: ColumnarOrPyramidalCell
+is_a: EpithelialTissue
+property_value: id "Columnar or pyramidal cell" xsd:string
+
+[Term]
+id: CommonDendriticCellPrecursor
+is_a: ConnectiveTissue
+property_value: id "Common dendritic cell precursor" xsd:string
+
+[Term]
+id: CommonLymphoidprogenitor(CILP)
+is_a: ConnectiveTissue
+property_value: id "Common lymphoid progenitor(CILP)" xsd:string
+
+[Term]
+id: CommonLymphoidprogenitor(CLP)
+is_a: ConnectiveTissue
+property_value: id "Common lymphoid progenitor(CLP)" xsd:string
+
+[Term]
+id: CommonMyeloidprogenitor(CMP)
+is_a: ConnectiveTissue
+property_value: id "Common myeloid progenitor(CMP)" xsd:string
+
+[Term]
+id: Commonhelper-likeILCprogenitor(CHILP)
+is_a: ConnectiveTissue
+property_value: id "Common helper-like ILC progenitor(CHILP)" xsd:string
+
+[Term]
+id: ConeCell
+is_a: PhotoreceptorCell
+property_value: id "Cone cell" xsd:string
+
+[Term]
+id: ConnectiveTissue
+is_a: cell
+property_value: id "Connective tissue" xsd:string
+
+[Term]
+id: ConventionalDendriticCell
+is_a: PreConventionalDendriticCell
+property_value: id "Conventional dendritic cell" xsd:string
+
+[Term]
+id: CorticalThymicEpithelialCell
+is_a: ThymicEpithelialCell
+property_value: id "Cortical thymic epithelial cell" xsd:string
+
+[Term]
+id: Corticotroph
+is_a: EpithelialTissue
+property_value: id "Corticotroph" xsd:string
+
+[Term]
+id: CoveringEptihelium
+is_a: EpithelialTissue
+property_value: id "Covering eptihelium" xsd:string
+
+[Term]
+id: Cuboidal(Columnarcell)
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+property_value: id "Cuboidal(Columnar cell)" xsd:string
+
+[Term]
+id: CuboidalCell
+is_a: EpithelialCell
+property_value: id "Cuboidal cell" xsd:string
+
+[Term]
+id: D1Cell
+is_a: EndocrineGland
+property_value: id "D1 cell" xsd:string
+
+[Term]
+id: DNESSmallGranuleCell
+is_a: SimpleCuboidalCiliatedEpithelium
+property_value: id "DNES small granule cell" xsd:string
+
+[Term]
+id: DarkCell
+is_a: EccrineSweatGlandCell
+property_value: id "Dark cell" xsd:string
+
+[Term]
+id: DecidualCell
+is_a: EndothelialCell
+property_value: id "Decidual cell" xsd:string
+
+[Term]
+id: DeltaCell
+is_a: EndocrineGland
+property_value: id "Delta cell" xsd:string
+
+[Term]
+id: DendriticCell
+is_a: Agranulocyte
+is_a: MyeloidCells
+property_value: id "Dendritic cell" xsd:string
+
+[Term]
+id: DifferentiatedSpermatogonia
+is_a: Spermatogonia
+property_value: id "Differentiated spermatogonia" xsd:string
+
+[Term]
+id: DifferentiatingSpermatogonia
+is_a: Spermatogonia
+property_value: id "Differentiating spermatogonia" xsd:string
+
+[Term]
+id: DiploteneSpermatocyte
+is_a: PrimarySpermatocyte
+property_value: id "Diplotene spermatocyte" xsd:string
+
+[Term]
+id: DistalConvolutedTubule
+is_a: SimpleCuboidalEpithelium
+property_value: id "Distal convoluted tubule" xsd:string
+
+[Term]
+id: DopaminergicNeuron
+is_a: Aminergicneuron
+is_a: Neuron
+property_value: id "Dopaminergic neuron" xsd:string
+
+[Term]
+id: DoubleNegativeTCell
+is_a: ConnectiveTissue
+property_value: id "Double negative T cell" xsd:string
+
+[Term]
+id: DoublePositiveTCell
+is_a: ConnectiveTissue
+property_value: id "Double positive T cell" xsd:string
+
+[Term]
+id: DuctalCell
+is_a: EpithelialCell
+is_a: Epithelium
+is_a: ExocrineCell
+is_a: GlandularEpithelium
+property_value: id "Ductal cell" xsd:string
+
+[Term]
+id: Duodenalgland(Brunner'sgland)
+is_a: GlandularEpithelium
+property_value: id "Duodenal gland(Brunner's gland)" xsd:string
+
+[Term]
+id: EarlyT-lineageprecursor(ETP)
+is_a: ConnectiveTissue
+property_value: id "Early T-lineage precursor(ETP)" xsd:string
+
+[Term]
+id: EccrineSweatGlandCell
+is_a: SweatGlandCell
+property_value: id "Eccrine sweat gland cell" xsd:string
+
+[Term]
+id: EndocardialCell
+is_a: EndothelialCell
+property_value: id "Endocardial cell" xsd:string
+
+[Term]
+id: EndocrineCell
+is_a: EpithelialTissue
+is_a: IntestinalGland
+property_value: id "Endocrine cell" xsd:string
+
+[Term]
+id: EndocrineGland
+is_a: EpithelialTissue
+property_value: id "Endocrine gland" xsd:string
+
+[Term]
+id: EndometrialStemCell
+is_a: EpithelialTissue
+property_value: id "Endometrial stem cell" xsd:string
+
+[Term]
+id: EndothelialCell
+is_a: EndocrineGland
+is_a: EpithelialCell
+is_a: SimpleSquamousEpithelium
+is_a: SquamousEpithelium(LowColumnarepithelium)
+property_value: id "Endothelial Cell" xsd:string
+property_value: id "Endothelial cell" xsd:string
+
+[Term]
+id: EntericGlialCell
+is_a: NerveTissue
+property_value: id "Enteric glial cell" xsd:string
+
+[Term]
+id: EntericNervalCell
+is_a: NerveTissue
+property_value: id "Enteric nerval cell" xsd:string
+
+[Term]
+id: Enterocyte
+is_a: IntestinalGland
+is_a: SimpleColumnarEpithelium
+property_value: id "Enterocyte" xsd:string
+
+[Term]
+id: EnterocyteProgenitor
+is_a: IntestinalGland
+is_a: SimpleColumnarEpithelium
+property_value: id "Enterocyte progenitor" xsd:string
+
+[Term]
+id: EnteroendocrineCell
+is_a: EndothelialCell
+is_a: FundicGland
+is_a: IntestinalGland
+property_value: id "Enteroendocrine cell" xsd:string
+
+[Term]
+id: EosinophilicGranulocyte
+is_a: Granulocyte
+property_value: id "Eosinophilic granulocyte" xsd:string
+
+[Term]
+id: EosinophilicMetamyelocyte
+is_a: ConnectiveTissue
+property_value: id "Eosinophilic metamyelocyte" xsd:string
+
+[Term]
+id: EosinophilicMyelocyte
+is_a: ConnectiveTissue
+property_value: id "Eosinophilic myelocyte" xsd:string
+
+[Term]
+id: EpendymalCell
+is_a: GlialCell(non-neuronalcell)
+is_a: NeuroglialCell
+property_value: id "Ependymal cell" xsd:string
+
+[Term]
+id: Epinephrine-secretingCell
+is_a: ChromaffinCell
+property_value: id "Epinephrine-secreting cell" xsd:string
+
+[Term]
+id: EpithelialCell
+is_a: EpithelialTissue
+is_a: GlandularEpithelium
+is_a: SimpleColumnarEpithelium
+property_value: id "Epithelial cell" xsd:string
+
+[Term]
+id: EpithelialStemCell
+is_a: IntestinalGland
+property_value: id "Epithelial stem cell" xsd:string
+
+[Term]
+id: EpithelialTissue
+is_a: cell
+property_value: id "Epithelial tissue" xsd:string
+
+[Term]
+id: Epithelium
+is_a: EpithelialTissue
+property_value: id "Epithelium" xsd:string
+
+[Term]
+id: EpitheliumCell
+is_a: EpithelialTissue
+property_value: id "Epithelium cell" xsd:string
+
+[Term]
+id: Erythrocyte
+is_a: Hemocyte
+property_value: id "Erythrocyte" xsd:string
+
+[Term]
+id: ErythroidProgenitorCell
+is_a: Hemocyte
+property_value: id "Erythroid progenitor cell" xsd:string
+
+[Term]
+id: ExcitatoryNeuron(Glutamatergicneuron)
+is_a: Neuron
+property_value: id "Excitatory neuron (Glutamatergic neuron)" xsd:string
+
+[Term]
+id: ExocrineCell
+is_a: ExocrineGland
+property_value: id "Exocrine cell" xsd:string
+
+[Term]
+id: ExocrineGland
+is_a: EpithelialTissue
+property_value: id "Exocrine gland" xsd:string
+
+[Term]
+id: ExtraglomerularMesangialcell(PolarCushioncell)
+is_a: VascularSmoothMuscleCell
+property_value: id "Extraglomerular mesangial cell(Polar cushion cell)" xsd:string
+
+[Term]
+id: FasciculataCell
+is_a: ConnectiveTissue
+property_value: id "Fasciculata cell" xsd:string
+
+[Term]
+id: FastSkeletalMuscleCell
+is_a: MuscleCell
+property_value: id "Fast skeletal muscle cell" xsd:string
+
+[Term]
+id: FatCell
+is_a: StromalCell
+property_value: id "Fat Cell" xsd:string
+property_value: id "Fat cell" xsd:string
+
+[Term]
+id: Fibroblast
+is_a: StromalCell
+property_value: id "Fibroblast" xsd:string
+
+[Term]
+id: Fibroblast(Keratocyte)
+is_a: StromalCell
+property_value: id "Fibroblast (Keratocyte)" xsd:string
+
+[Term]
+id: FibroblasticSynovialcell(typeBcell)
+is_a: Fibroblast
+property_value: id "Fibroblastic synovial cell(type B cell)" xsd:string
+
+[Term]
+id: Fibrocyte
+is_a: Fibroblast
+is_a: StromalCell
+property_value: id "Fibrocyte" xsd:string
+
+[Term]
+id: FibrousAstrocyte
+is_a: Astrocyte
+property_value: id "Fibrous astrocyte" xsd:string
+
+[Term]
+id: Follicle
+is_a: EpithelialTissue
+property_value: id "Follicle" xsd:string
+
+[Term]
+id: FollicularBCell
+is_a: B-2Cell
+property_value: id "Follicular B cell" xsd:string
+
+[Term]
+id: FollicularCell
+is_a: NerveTissue
+property_value: id "Follicular cell" xsd:string
+
+[Term]
+id: FollicularEpithelialCell
+is_a: SquamousEpithelium(LowColumnarepithelium)
+property_value: id "Follicular epithelial cell" xsd:string
+
+[Term]
+id: FundicGland
+is_a: GlandularEpithelium
+property_value: id "Fundic gland" xsd:string
+
+[Term]
+id: FusiformCell
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "Fusiform cell" xsd:string
+
+[Term]
+id: GABAergicNeuron
+is_a: AminoAcidNeuron
+is_a: Neuron
+property_value: id "GABAergic neuron" xsd:string
+
+[Term]
+id: GabaergicNeuron
+is_a: AminoAcidNeuron
+property_value: id "Gabaergic neuron" xsd:string
+
+[Term]
+id: GammaCell
+is_a: EndocrineGland
+property_value: id "Gamma cell" xsd:string
+
+[Term]
+id: GammaDeltaTCell
+is_a: TCell
+property_value: id "Gamma delta T cell" xsd:string
+
+[Term]
+id: GanglionCell
+is_a: SensoryNeuron
+property_value: id "Ganglion cell" xsd:string
+
+[Term]
+id: GermCell
+is_a: EpithelialTissue
+property_value: id "Germ cell" xsd:string
+
+[Term]
+id: GlandCell
+is_a: EpithelialCell
+property_value: id "Gland cell" xsd:string
+
+[Term]
+id: GlandularEpithelium
+is_a: EpithelialTissue
+property_value: id "Glandular epithelium" xsd:string
+
+[Term]
+id: GlialCell
+is_a: NerveTissue
+property_value: id "Glial cell" xsd:string
+
+[Term]
+id: GlialCell(non-neuronalcell)
+is_a: NerveTissue
+property_value: id "Glial cell (non-neuronal cell)" xsd:string
+
+[Term]
+id: GlutamatergicNeuron
+is_a: AminoAcidNeuron
+is_a: Neuron
+property_value: id "Glutamatergic neuron" xsd:string
+
+[Term]
+id: GobletCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+is_a: SimpleColumnarEpithelium
+property_value: id "Goblet cell" xsd:string
+
+[Term]
+id: GolgiCell
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "Golgi cell" xsd:string
+
+[Term]
+id: Gonadotroph
+is_a: EpithelialTissue
+property_value: id "Gonadotroph" xsd:string
+
+[Term]
+id: GranuleCell
+is_a: ExcitatoryNeuron(Glutamatergicneuron)
+property_value: id "Granule cell" xsd:string
+
+[Term]
+id: Granulocyte
+is_a: Hemocyte
+is_a: Leukocyte
+property_value: id "Granulocyte" xsd:string
+
+[Term]
+id: GranulocyteMacrophageprogenitor(GMP)
+is_a: ConnectiveTissue
+property_value: id "Granulocyte macrophage progenitor(GMP)" xsd:string
+
+[Term]
+id: GustatoryCell
+is_a: Neuron
+property_value: id "Gustatory cell" xsd:string
+
+[Term]
+id: HaematopoieticStemAndProgenitorCell
+is_a: ConnectiveTissue
+property_value: id "Haematopoietic stem and progenitor cell" xsd:string
+
+[Term]
+id: HairMatrixCell
+is_a: ConnectiveTissue
+property_value: id "Hair matrix cell" xsd:string
+
+[Term]
+id: Hemocyte
+is_a: ConnectiveTissue
+property_value: id "Hemocyte" xsd:string
+
+[Term]
+id: HemopoieticStemcell(HSC)
+is_a: ConnectiveTissue
+property_value: id "Hemopoietic stem cell(HSC)" xsd:string
+
+[Term]
+id: HepaticStellateCell
+is_a: Non-HepatocyteCell
+property_value: id "Hepatic stellate cell" xsd:string
+
+[Term]
+id: Hepatocyte
+is_a: EpithelialCell
+property_value: id "Hepatocyte" xsd:string
+
+[Term]
+id: HistaminergicNeuron
+is_a: AminoAcidNeuron
+is_a: Neuron
+property_value: id "Histaminergic neuron" xsd:string
+
+[Term]
+id: HorizontalCell
+is_a: BipolarCell
+property_value: id "Horizontal cell" xsd:string
+
+[Term]
+id: ILC
+is_a: InnateLymphocyte
+is_a: Lymphocyte
+property_value: id "ILC" xsd:string
+
+[Term]
+id: ILC1
+is_a: ILC
+property_value: id "ILC1" xsd:string
+
+[Term]
+id: ILC2
+is_a: ILC
+property_value: id "ILC2" xsd:string
+
+[Term]
+id: ILC3
+is_a: ILC
+property_value: id "ILC3" xsd:string
+
+[Term]
+id: ImmatureBCell
+is_a: ConnectiveTissue
+property_value: id "Immature B cell" xsd:string
+
+[Term]
+id: InflamedEpithelialCell
+is_a: SimpleSquamousEpithelium
+property_value: id "Inflamed epithelial cell" xsd:string
+
+[Term]
+id: InflammatoryCell
+is_a: ConnectiveTissue
+property_value: id "Inflammatory cell" xsd:string
+
+[Term]
+id: InhibitoryNeuron(GABAergicneuron)
+is_a: Neuron
+property_value: id "Inhibitory neuron (GABAergic neuron)" xsd:string
+
+[Term]
+id: InnateLymphocyte
+is_a: Agranulocyte
+is_a: Lymphocyte
+property_value: id "Innate lymphocyte" xsd:string
+
+[Term]
+id: Intercalatedcell(Princplecell)
+is_a: CollectingDuct
+property_value: id "Intercalated cell(Princple cell)" xsd:string
+
+[Term]
+id: InterdigitatingCell
+is_a: DendriticCell
+property_value: id "Interdigitating cell" xsd:string
+
+[Term]
+id: InterplexiformCell
+is_a: BipolarCell
+property_value: id "Interplexiform cell" xsd:string
+
+[Term]
+id: InterstitialCell
+is_a: ConnectiveTissue
+is_a: StromalCell
+property_value: id "Interstitial cell" xsd:string
+
+[Term]
+id: IntestinalGland
+is_a: GlandularEpithelium
+property_value: id "Intestinal gland" xsd:string
+
+[Term]
+id: IntraglomerularMesangialCell
+is_a: VascularSmoothMuscleCell
+property_value: id "Intraglomerular mesangial cell" xsd:string
+
+[Term]
+id: IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+is_a: SensoryNeuron
+property_value: id "Intrinsically photosensitive retinal ganglion cell (ipRGC)" xsd:string
+
+[Term]
+id: JuxtaglomerularCell
+is_a: VascularSmoothMuscleCell
+property_value: id "Juxtaglomerular cell" xsd:string
+
+[Term]
+id: Keratinocyte
+is_a: StratifiedSquamousEpithelium
+property_value: id "Keratinocyte" xsd:string
+
+[Term]
+id: KuppferCell
+is_a: Macrophage
+property_value: id "Kuppfer cell" xsd:string
+
+[Term]
+id: LaminaPropria
+is_a: ConnectiveTissue
+property_value: id "Lamina propria" xsd:string
+
+[Term]
+id: LanghansCell
+is_a: DendriticCell
+property_value: id "Langhans cell" xsd:string
+
+[Term]
+id: LargeGranularLymphocyte
+is_a: NKCell
+property_value: id "Large granular lymphocyte" xsd:string
+
+[Term]
+id: LeptoteneSpermatocyte
+is_a: PrimarySpermatocyte
+property_value: id "Leptotene spermatocyte" xsd:string
+
+[Term]
+id: Leukocyte
+is_a: Hemocyte
+property_value: id "Leukocyte" xsd:string
+
+[Term]
+id: LeydigCell
+is_a: InterstitialCell
+property_value: id "Leydig cell" xsd:string
+
+[Term]
+id: LoopOfHenle
+is_a: SimpleCuboidalEpithelium
+property_value: id "Loop of Henle" xsd:string
+
+[Term]
+id: LoopOfHenleProgenitor
+is_a: SimpleCuboidalEpithelium
+property_value: id "Loop of henle progenitor" xsd:string
+
+[Term]
+id: LuminalCell
+is_a: EpithelialCell
+property_value: id "Luminal cell" xsd:string
+
+[Term]
+id: LymphaticEndothelialCell
+is_a: EndothelialCell
+property_value: id "Lymphatic Endothelial Cell" xsd:string
+property_value: id "Lymphatic endothelial cell" xsd:string
+
+[Term]
+id: LymphaticSmoothCell
+is_a: SmoothMuscleCell
+property_value: id "Lymphatic smooth cell" xsd:string
+
+[Term]
+id: LymphaticSmoothMuscleCell
+is_a: SmoothMuscleCell
+property_value: id "Lymphatic smooth muscle cell" xsd:string
+
+[Term]
+id: Lymphocyte
+is_a: Agranulocyte
+is_a: Leukocyte
+property_value: id "Lymphocyte" xsd:string
+
+[Term]
+id: Macrophage
+is_a: Leukocyte
+is_a: Monocyte
+is_a: MononuclearPhagocyteSystem
+property_value: id "Macrophage" xsd:string
+
+[Term]
+id: Macrophage-likeSynovialcell(typeAcell)
+is_a: Macrophage
+property_value: id "Macrophage-like synovial cell(type A cell)" xsd:string
+
+[Term]
+id: MacrophageDendriticCellProgenitor
+is_a: ConnectiveTissue
+property_value: id "Macrophage dendritic cell progenitor" xsd:string
+
+[Term]
+id: MaculaDensaCell
+is_a: SimpleSquamousEpithelium
+property_value: id "Macula densa cell" xsd:string
+
+[Term]
+id: Mammotroph
+is_a: Acidophil
+property_value: id "Mammotroph" xsd:string
+
+[Term]
+id: MarginalZoneBCell
+is_a: B-2Cell
+property_value: id "Marginal zone B cell" xsd:string
+
+[Term]
+id: MastCell
+is_a: Granulocyte
+is_a: Hemocyte
+is_a: MyeloidCells
+property_value: id "Mast cell" xsd:string
+
+[Term]
+id: MastCellprogenitor(MCP)
+is_a: ConnectiveTissue
+property_value: id "Mast cell progenitor(MCP)" xsd:string
+
+[Term]
+id: MatureNaïveBCell
+is_a: ConnectiveTissue
+property_value: id "Mature naïve B cell" xsd:string
+
+[Term]
+id: MedullaryEpithelialCell
+is_a: MedullaryThymicEpithelialCell
+property_value: id "Medullary epithelial cell" xsd:string
+
+[Term]
+id: MedullaryThymicEpithelialCell
+is_a: ThymicEpithelialCell
+property_value: id "Medullary thymic epithelial cell" xsd:string
+
+[Term]
+id: Megakaryoblast
+is_a: ConnectiveTissue
+property_value: id "Megakaryoblast" xsd:string
+
+[Term]
+id: Megakaryocyte
+is_a: ConnectiveTissue
+is_a: Hemocyte
+property_value: id "Megakaryocyte" xsd:string
+
+[Term]
+id: MegakaryocyteErythrocyteprogenitor(MEP)
+is_a: ConnectiveTissue
+property_value: id "Megakaryocyte erythrocyte progenitor(MEP)" xsd:string
+
+[Term]
+id: Melanocyte
+is_a: EpithelialTissue
+is_a: StratifiedSquamousEpithelium
+property_value: id "Melanocyte" xsd:string
+
+[Term]
+id: MemoryBCell
+is_a: BCell
+property_value: id "Memory B cell" xsd:string
+
+[Term]
+id: MerkelCell
+is_a: Neuron
+property_value: id "Merkel cell" xsd:string
+
+[Term]
+id: MesangialCell
+is_a: ConnectiveTissue
+property_value: id "Mesangial cell" xsd:string
+
+[Term]
+id: MesenchymalCell
+is_a: ConnectiveTissue
+property_value: id "Mesenchymal cell" xsd:string
+
+[Term]
+id: MesenchymalStromalCell
+is_a: StromalCell
+property_value: id "Mesenchymal stromal cell" xsd:string
+
+[Term]
+id: MesenchymallyDerivedCell
+is_a: PiaMater
+property_value: id "Mesenchymally derived cell" xsd:string
+
+[Term]
+id: MesothelialCell
+is_a: EpithelialTissue
+is_a: SimpleSquamousEpithelium
+property_value: id "Mesothelial cell" xsd:string
+
+[Term]
+id: Mesothelium
+is_a: EpithelialCell
+is_a: SimpleSquamousEpithelium
+property_value: id "Mesothelium" xsd:string
+
+[Term]
+id: Microfoldcell(Mcell)
+is_a: IntestinalGland
+property_value: id "Microfold cell(M cell)" xsd:string
+
+[Term]
+id: Microglia
+is_a: GlialCell(non-neuronalcell)
+is_a: IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+is_a: NeuroglialCell
+property_value: id "Microglia" xsd:string
+
+[Term]
+id: MitralCell
+is_a: Neuron
+property_value: id "Mitral cell" xsd:string
+
+[Term]
+id: Monocyte
+is_a: Agranulocyte
+is_a: Leukocyte
+is_a: MyeloidCells
+property_value: id "Monocyte" xsd:string
+
+[Term]
+id: MononuclearPhagocyteSystem
+is_a: Agranulocyte
+property_value: id "Mononuclear phagocyte system" xsd:string
+
+[Term]
+id: MotorNeuron
+is_a: Neuron
+property_value: id "Motor neuron" xsd:string
+
+[Term]
+id: MucousCell
+is_a: AcinarCell
+property_value: id "Mucous cell" xsd:string
+
+[Term]
+id: MucousGlandCell
+is_a: GlandularEpithelium
+property_value: id "Mucous gland cell" xsd:string
+
+[Term]
+id: MucousNeckCell
+is_a: FundicGland
+property_value: id "Mucous neck cell" xsd:string
+
+[Term]
+id: MullerCell
+is_a: IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+property_value: id "Muller cell" xsd:string
+
+[Term]
+id: Multipotentprogenitor(MPP)
+is_a: ConnectiveTissue
+property_value: id "Multipotent progenitor(MPP)" xsd:string
+
+[Term]
+id: MuscleCell
+is_a: MuscleTissue
+property_value: id "Muscle Cell" xsd:string
+property_value: id "Muscle cell" xsd:string
+
+[Term]
+id: MuscleProgenitorCell
+is_a: MuscleTissue
+property_value: id "Muscle progenitor cell" xsd:string
+
+[Term]
+id: MuscleSatelliteCell
+is_a: MuscleProgenitorCell
+is_a: MuscleTissue
+property_value: id "Muscle satellite cell" xsd:string
+
+[Term]
+id: MuscleTissue
+is_a: cell
+property_value: id "Muscle tissue" xsd:string
+
+[Term]
+id: Myeloblast
+is_a: ConnectiveTissue
+property_value: id "Myeloblast" xsd:string
+
+[Term]
+id: MyeloidCell
+is_a: ConnectiveTissue
+property_value: id "Myeloid cell" xsd:string
+
+[Term]
+id: MyeloidCells
+is_a: Leukocyte
+property_value: id "Myeloid cells" xsd:string
+
+[Term]
+id: MyeloidDendriticCells
+is_a: Monocyte
+property_value: id "Myeloid dendritic cells" xsd:string
+
+[Term]
+id: MyoepithelialCell
+is_a: AcinarCell
+is_a: EpithelialTissue
+is_a: GlandularEpithelium
+property_value: id "Myoepithelial cell" xsd:string
+
+[Term]
+id: Myofibroblast
+is_a: Fibroblast
+property_value: id "Myofibroblast" xsd:string
+
+[Term]
+id: MyoidCell
+is_a: EpithelialCell
+property_value: id "Myoid cell" xsd:string
+
+[Term]
+id: NKCell
+is_a: InnateLymphocyte
+is_a: Lymphocyte
+property_value: id "NK cell" xsd:string
+
+[Term]
+id: NKTCell
+is_a: TCell
+property_value: id "NK T cell" xsd:string
+
+[Term]
+id: NKprogenitor(NKP)
+is_a: ConnectiveTissue
+property_value: id "NK progenitor(NKP)" xsd:string
+
+[Term]
+id: NaïveBCell
+is_a: BCell
+property_value: id "Naïve B cell" xsd:string
+
+[Term]
+id: NaïveCD4TCell
+is_a: TCell
+property_value: id "Naïve CD4 T cell" xsd:string
+
+[Term]
+id: NaïveCD8TCell
+is_a: TCell
+property_value: id "Naïve CD8 T cell" xsd:string
+
+[Term]
+id: NerveTissue
+is_a: cell
+property_value: id "Nerve tissue" xsd:string
+
+[Term]
+id: NeuralProgenitorCell
+is_a: NerveTissue
+property_value: id "Neural progenitor cell" xsd:string
+
+[Term]
+id: NeuroglialCell
+is_a: NerveTissue
+property_value: id "Neuroglial Cell" xsd:string
+property_value: id "Neuroglial cell" xsd:string
+
+[Term]
+id: Neuron
+is_a: NerveTissue
+property_value: id "Neuron" xsd:string
+
+[Term]
+id: Neutrophil
+is_a: Granulocyte
+property_value: id "Neutrophil" xsd:string
+
+[Term]
+id: NeutrophilicGranulocyte
+is_a: Granulocyte
+property_value: id "Neutrophilic granulocyte" xsd:string
+
+[Term]
+id: NeutrophilicMetamyelocyte
+is_a: ConnectiveTissue
+property_value: id "Neutrophilic metamyelocyte" xsd:string
+
+[Term]
+id: NeutrophilicMyelocyte
+is_a: ConnectiveTissue
+property_value: id "Neutrophilic myelocyte" xsd:string
+
+[Term]
+id: Non-HepatocyteCell
+is_a: ConnectiveTissue
+property_value: id "Non-Hepatocyte cell" xsd:string
+
+[Term]
+id: Nonepinephrine-secretingCell
+is_a: ChromaffinCell
+property_value: id "Nonepinephrine-secreting cell" xsd:string
+
+[Term]
+id: NoradrenergicNeuron
+is_a: Aminergicneuron
+property_value: id "Noradrenergic neuron" xsd:string
+
+[Term]
+id: Odontoblast
+is_a: ConnectiveTissue
+property_value: id "Odontoblast" xsd:string
+
+[Term]
+id: OlfactoryNeuron
+is_a: Neuron
+property_value: id "Olfactory neuron" xsd:string
+
+[Term]
+id: Oligodendrocyte
+is_a: GlialCell(non-neuronalcell)
+is_a: NeuroglialCell
+property_value: id "Oligodendrocyte" xsd:string
+
+[Term]
+id: OligodendrocytePrecursorCell(OPC)
+is_a: GlialCell(non-neuronalcell)
+property_value: id "Oligodendrocyte precursor cell (OPC)" xsd:string
+
+[Term]
+id: Orthochromatophilicerythroblast(normoblast)
+is_a: ConnectiveTissue
+property_value: id "Orthochromatophilic erythroblast(normoblast)" xsd:string
+
+[Term]
+id: Osteoclast
+is_a: ConnectiveTissue
+property_value: id "Osteoclast" xsd:string
+
+[Term]
+id: OxynticCell
+is_a: FundicGland
+property_value: id "Oxyntic cell" xsd:string
+
+[Term]
+id: PVInhibitoryNeuron
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "PV inhibitory neuron" xsd:string
+
+[Term]
+id: PacemakerCell
+is_a: CardiomyocyteCell
+property_value: id "Pacemaker cell" xsd:string
+
+[Term]
+id: PachyteneSpermatocyte
+is_a: PrimarySpermatocyte
+property_value: id "Pachytene spermatocyte" xsd:string
+
+[Term]
+id: PanethCell
+is_a: IntestinalGland
+property_value: id "Paneth cell" xsd:string
+
+[Term]
+id: ParafollicularCell
+is_a: SquamousEpithelium(LowColumnarepithelium)
+property_value: id "Parafollicular cell" xsd:string
+
+[Term]
+id: ParietalCell
+is_a: FundicGland
+property_value: id "Parietal cell" xsd:string
+
+[Term]
+id: PeptidergicNeuron
+is_a: Neuron
+property_value: id "Peptidergic neuron" xsd:string
+
+[Term]
+id: Pericyte
+is_a: EndothelialCell
+is_a: EpithelialTissue
+property_value: id "Pericyte" xsd:string
+
+[Term]
+id: PerineuralEpithelialCell
+is_a: SimpleSquamousEpithelium
+property_value: id "Perineural Epithelial Cell" xsd:string
+property_value: id "Perineural epithelial cell" xsd:string
+
+[Term]
+id: PeudostratifiedColumnarEpithelium
+is_a: CoveringEptihelium
+property_value: id "Peudostratified columnar epithelium" xsd:string
+
+[Term]
+id: PhotoreceptorCell
+is_a: SensoryNeuron
+property_value: id "Photoreceptor cell" xsd:string
+
+[Term]
+id: PiaMater
+is_a: ConnectiveTissue
+property_value: id "Pia mater" xsd:string
+
+[Term]
+id: PigmentEpithelialCell
+is_a: EpithelialCell
+property_value: id "Pigment epithelial cell" xsd:string
+
+[Term]
+id: Pinealocyte
+is_a: EpitheliumCell
+property_value: id "Pinealocyte" xsd:string
+
+[Term]
+id: PitCell
+is_a: GlandularEpithelium
+property_value: id "Pit cell" xsd:string
+
+[Term]
+id: Pituicyte
+is_a: NeuroglialCell
+property_value: id "Pituicyte" xsd:string
+
+[Term]
+id: PlasmaBCell
+is_a: BCell
+property_value: id "Plasma B cell" xsd:string
+
+[Term]
+id: PlasmaCell
+is_a: BCell
+property_value: id "Plasma cell" xsd:string
+
+[Term]
+id: PlasmacytoidDendriticCell
+is_a: DendriticCell
+property_value: id "Plasmacytoid dendritic cell" xsd:string
+
+[Term]
+id: Podocyte
+is_a: EndothelialCell
+property_value: id "Podocyte" xsd:string
+
+[Term]
+id: PolychromatophilicErythroblast
+is_a: ConnectiveTissue
+property_value: id "Polychromatophilic erythroblast" xsd:string
+
+[Term]
+id: PolyhedralCell
+is_a: EpithelialCell
+is_a: EpithelialTissue
+property_value: id "Polyhedral cell" xsd:string
+
+[Term]
+id: Pre-BCell
+is_a: ConnectiveTissue
+property_value: id "Pre-B cell" xsd:string
+
+[Term]
+id: PreConventionalDendriticCell
+is_a: DendriticCell
+property_value: id "Pre conventional dendritic cell" xsd:string
+
+[Term]
+id: PredecidualCell
+is_a: EndothelialCell
+property_value: id "Predecidual cell" xsd:string
+
+[Term]
+id: PrickleCell
+is_a: PolyhedralCell
+property_value: id "Prickle cell" xsd:string
+
+[Term]
+id: PrimarySpermatocyte
+is_a: SpermatogenicCell
+property_value: id "Primary spermatocyte" xsd:string
+
+[Term]
+id: PrincipleCell
+is_a: CollectingDuct
+property_value: id "Principle cell" xsd:string
+
+[Term]
+id: Pro-BCell
+is_a: ConnectiveTissue
+property_value: id "Pro-B cell" xsd:string
+
+[Term]
+id: Proerythroblast
+is_a: ConnectiveTissue
+property_value: id "Proerythroblast" xsd:string
+
+[Term]
+id: ProgenitorCell
+is_a: NerveTissue
+property_value: id "Progenitor cell" xsd:string
+
+[Term]
+id: ProliferatingCell
+is_a: ConnectiveTissue
+is_a: EpithelialTissue
+is_a: NerveTissue
+property_value: id "Proliferating cell" xsd:string
+
+[Term]
+id: Promegakaryocyte
+is_a: ConnectiveTissue
+property_value: id "Promegakaryocyte" xsd:string
+
+[Term]
+id: Promyelocyte
+is_a: ConnectiveTissue
+property_value: id "Promyelocyte" xsd:string
+
+[Term]
+id: ProtoplasmicAstrocyte
+is_a: Astrocyte
+property_value: id "Protoplasmic astrocyte" xsd:string
+
+[Term]
+id: ProximalConvolutedTubule
+is_a: SimpleCuboidalEpithelium
+property_value: id "Proximal convoluted tubule" xsd:string
+
+[Term]
+id: ProximalConvolutedTubuleProgenitor
+is_a: SimpleCuboidalEpithelium
+property_value: id "Proximal convoluted tubule progenitor" xsd:string
+
+[Term]
+id: PseudostratifiedColumnarEpithelium
+is_a: CoveringEptihelium
+property_value: id "Pseudostratified columnar epithelium" xsd:string
+
+[Term]
+id: PukinjeCell
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "Pukinje cell" xsd:string
+
+[Term]
+id: PurkinjeCell
+is_a: Neuron
+property_value: id "Purkinje cell" xsd:string
+
+[Term]
+id: PurkinjeFiber
+is_a: CardiomyocyteCell
+property_value: id "Purkinje fiber" xsd:string
+
+[Term]
+id: PyloricGland
+is_a: GlandularEpithelium
+property_value: id "Pyloric gland" xsd:string
+
+[Term]
+id: PyramidalNeuron
+is_a: Neuron
+property_value: id "Pyramidal neuron" xsd:string
+
+[Term]
+id: ReelinExpressingNeuron
+is_a: 5HT3aRExpressingNeuron
+property_value: id "Reelin expressing neuron" xsd:string
+
+[Term]
+id: RenshawCell
+is_a: MotorNeuron
+property_value: id "Renshaw cell" xsd:string
+
+[Term]
+id: ReticularCell
+is_a: StromalCell
+property_value: id "Reticular cell" xsd:string
+
+[Term]
+id: Reticulocyte
+is_a: StromalCell
+property_value: id "Reticulocyte" xsd:string
+
+[Term]
+id: RetinalGanglionCell
+is_a: GanglionCell
+property_value: id "Retinal ganglion cell" xsd:string
+
+[Term]
+id: ReverseCell
+is_a: EpithelialCell
+property_value: id "Reverse cell" xsd:string
+
+[Term]
+id: RodCell
+is_a: PhotoreceptorCell
+property_value: id "Rod cell" xsd:string
+
+[Term]
+id: SOMInhibitoryNeuron
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "SOM inhibitory neuron" xsd:string
+
+[Term]
+id: SatelliteCell
+is_a: NeuroglialCell
+property_value: id "Satellite cell" xsd:string
+
+[Term]
+id: SchwannCell
+is_a: IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+is_a: NeuroglialCell
+property_value: id "Schwann cell" xsd:string
+
+[Term]
+id: SebaceousCell
+is_a: SebaceousGlandCell
+is_a: Sebocyte
+property_value: id "Sebaceous cell" xsd:string
+
+[Term]
+id: SebaceousGlandCell
+is_a: GlandularEpithelium
+property_value: id "Sebaceous gland cell" xsd:string
+
+[Term]
+id: Sebocyte
+is_a: GlandularEpithelium
+property_value: id "Sebocyte" xsd:string
+
+[Term]
+id: SecondarySpermatocyte
+is_a: SpermatogenicCell
+property_value: id "Secondary spermatocyte" xsd:string
+
+[Term]
+id: SecretoryCell
+is_a: EpithelialCell
+is_a: SimpleColumnarEpithelialCell
+property_value: id "Secretory cell" xsd:string
+
+[Term]
+id: SecretoryEpithelialCells
+is_a: EpithelialCell
+property_value: id "Secretory epithelial cells" xsd:string
+
+[Term]
+id: SecretoryNeuron
+is_a: UnmyelinatedNerveFiber
+property_value: id "Secretory neuron" xsd:string
+
+[Term]
+id: SensoryNeuron
+is_a: Neuron
+property_value: id "Sensory neuron" xsd:string
+
+[Term]
+id: SerotonergicNeuron
+is_a: Aminergicneuron
+is_a: Neuron
+property_value: id "Serotonergic neuron" xsd:string
+
+[Term]
+id: SerousGlandCell
+is_a: GlandularEpithelium
+property_value: id "Serous gland cell" xsd:string
+
+[Term]
+id: SerousSecretoryCell
+is_a: AcinarCell
+property_value: id "Serous secretory cell" xsd:string
+
+[Term]
+id: SertoliCell
+is_a: SustentacularCell
+property_value: id "Sertoli cell" xsd:string
+
+[Term]
+id: SimpleColumnarEpithelialCell
+is_a: EpithelialCell
+property_value: id "Simple columnar epithelial cell" xsd:string
+
+[Term]
+id: SimpleColumnarEpithelium
+is_a: CoveringEptihelium
+is_a: EpithelialTissue
+property_value: id "Simple columnar epithelium" xsd:string
+
+[Term]
+id: SimpleCuboidalCiliatedEpithelium
+is_a: CoveringEptihelium
+property_value: id "Simple cuboidal ciliated epithelium" xsd:string
+
+[Term]
+id: SimpleCuboidalEpithelium
+is_a: CoveringEptihelium
+property_value: id "Simple cuboidal epithelium" xsd:string
+
+[Term]
+id: SimpleSquamousEpithelium
+is_a: CoveringEptihelium
+is_a: EpithelialTissue
+property_value: id "Simple squamous epithelium" xsd:string
+
+[Term]
+id: SinusoidalEndothelialCell
+is_a: EndothelialCell
+property_value: id "Sinusoidal endothelial cell" xsd:string
+
+[Term]
+id: SkeletalMuscleCell
+is_a: MuscleCell
+property_value: id "Skeletal muscle cell" xsd:string
+
+[Term]
+id: SkeletonMuscleCell
+is_a: MuscleCell
+property_value: id "Skeleton muscle cell" xsd:string
+
+[Term]
+id: SleletalMuscleCell
+is_a: MuscleCell
+property_value: id "Sleletal muscle cell" xsd:string
+
+[Term]
+id: SmallGranulecell(Kulchitskycell)
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+property_value: id "Small granule cell(Kulchitsky cell)" xsd:string
+
+[Term]
+id: SmoothMuscleCell
+is_a: MuscleCell
+property_value: id "Smooth muscle cell" xsd:string
+
+[Term]
+id: Somatotroph
+is_a: Acidophil
+property_value: id "Somatotroph" xsd:string
+
+[Term]
+id: Spermatid
+is_a: SpermatogenicCell
+property_value: id "Spermatid" xsd:string
+
+[Term]
+id: SpermatogenicCell
+is_a: GermCell
+property_value: id "Spermatogenic cell" xsd:string
+
+[Term]
+id: Spermatogonia
+is_a: SpermatogenicCell
+property_value: id "Spermatogonia" xsd:string
+
+[Term]
+id: SpermatogonialStemCell
+is_a: EpithelialTissue
+property_value: id "Spermatogonial stem cell" xsd:string
+
+[Term]
+id: SquamousCell
+is_a: EpithelialCell
+property_value: id "Squamous cell" xsd:string
+
+[Term]
+id: SquamousEpithelium(LowColumnarepithelium)
+is_a: Follicle
+property_value: id "Squamous epithelium (Low columnar epithelium)" xsd:string
+
+[Term]
+id: StellateCell
+is_a: InhibitoryNeuron(GABAergicneuron)
+property_value: id "Stellate cell" xsd:string
+
+[Term]
+id: StellateEpithelialCell
+is_a: CorticalThymicEpithelialCell
+property_value: id "Stellate epithelial cell" xsd:string
+
+[Term]
+id: StemCell
+is_a: FundicGland
+property_value: id "Stem cell" xsd:string
+
+[Term]
+id: StratifiedSquamousEpithelium
+is_a: CoveringEptihelium
+property_value: id "Stratified squamous epithelium" xsd:string
+
+[Term]
+id: StromalCell
+is_a: ConnectiveTissue
+is_a: LaminaPropria
+property_value: id "Stromal cell" xsd:string
+
+[Term]
+id: SubcapsuleEpithelialCell
+is_a: CorticalThymicEpithelialCell
+property_value: id "Subcapsule epithelial cell" xsd:string
+
+[Term]
+id: SuperficialCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+property_value: id "Superficial cell" xsd:string
+
+[Term]
+id: SurfaceMucousCell
+is_a: SimpleColumnarEpithelium
+property_value: id "Surface mucous cell" xsd:string
+
+[Term]
+id: SustentacularCell
+is_a: EpithelialCell
+property_value: id "Sustentacular cell" xsd:string
+
+[Term]
+id: SweatGlandCell
+is_a: EpithelialCell
+is_a: GlandularEpithelium
+property_value: id "Sweat gland cell" xsd:string
+
+[Term]
+id: SympatheticNeuron
+is_a: Neuron
+property_value: id "Sympathetic neuron" xsd:string
+
+[Term]
+id: TCell
+is_a: InnateLymphocyte
+is_a: Lymphocyte
+property_value: id "T cell" xsd:string
+
+[Term]
+id: TendonCell
+is_a: MuscleTissue
+property_value: id "Tendon cell" xsd:string
+
+[Term]
+id: ThymicCorpuscleEpithelialCell
+is_a: MedullaryThymicEpithelialCell
+property_value: id "Thymic corpuscle epithelial cell" xsd:string
+
+[Term]
+id: ThymicEpithelialCell
+is_a: SimpleSquamousEpithelium
+property_value: id "Thymic epithelial cell" xsd:string
+
+[Term]
+id: ThymicNurseCell
+is_a: StellateEpithelialCell
+property_value: id "Thymic nurse cell" xsd:string
+
+[Term]
+id: Thyrotroph
+is_a: EpithelialTissue
+property_value: id "Thyrotroph" xsd:string
+
+[Term]
+id: TrachealGlandCell
+is_a: GlandularEpithelium
+property_value: id "Tracheal gland cell" xsd:string
+
+[Term]
+id: TractCell
+is_a: MotorNeuron
+property_value: id "Tract cell" xsd:string
+
+[Term]
+id: TransitionalCell
+is_a: CardiomyocyteCell
+property_value: id "Transitional cell" xsd:string
+
+[Term]
+id: TrophoblastCell
+is_a: EpithelialCell
+property_value: id "Trophoblast cell" xsd:string
+
+[Term]
+id: TubuleCell
+is_a: EpithelialTissue
+property_value: id "Tubule cell" xsd:string
+
+[Term]
+id: TuftedCell
+is_a: Neuron
+property_value: id "Tufted cell" xsd:string
+
+[Term]
+id: TypeIAlveolarcell(TypeIpneumocyte)
+is_a: SimpleSquamousEpithelium
+property_value: id "Type I alveolar cell(Type I pneumocyte)" xsd:string
+
+[Term]
+id: TypeIIAlveolarcell(TypeIIpneumocyte)
+is_a: SimpleSquamousEpithelium
+property_value: id "Type II alveolar cell(Type II pneumocyte)" xsd:string
+
+[Term]
+id: UmbrellaCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+property_value: id "Umbrella cell" xsd:string
+
+[Term]
+id: UnmyelinatedNerveFiber
+is_a: NerveTissue
+property_value: id "Unmyelinated nerve fiber" xsd:string
+
+[Term]
+id: UretericBudCell
+is_a: EpithelialTissue
+property_value: id "Ureteric bud cell" xsd:string
+
+[Term]
+id: UretericEpithelialCell
+is_a: EpithelialTissue
+property_value: id "Ureteric epithelial cell" xsd:string
+
+[Term]
+id: UrothelialCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+property_value: id "Urothelial cell" xsd:string
+
+[Term]
+id: VIPInhibitoryNeuron
+is_a: 5HT3aRExpressingNeuron
+property_value: id "VIP inhibitory neuron" xsd:string
+
+[Term]
+id: VascularCell
+is_a: EpithelialTissue
+property_value: id "Vascular cell" xsd:string
+
+[Term]
+id: VascularEndothelialCell
+is_a: EndothelialCell
+property_value: id "Vascular Endothelial Cell" xsd:string
+property_value: id "Vascular endothelial cell" xsd:string
+
+[Term]
+id: VascularEpithelialCell
+is_a: EpithelialCell
+property_value: id "Vascular epithelial cell" xsd:string
+
+[Term]
+id: VascularParietalCell
+is_a: EpithelialCell
+property_value: id "Vascular parietal cell" xsd:string
+
+[Term]
+id: VascularSmoothCell
+is_a: SmoothMuscleCell
+property_value: id "Vascular smooth cell" xsd:string
+
+[Term]
+id: VascularSmoothMuscleCell
+is_a: SmoothMuscleCell
+property_value: id "Vascular smooth muscle cell" xsd:string
+
+[Term]
+id: VeiledCell
+is_a: DendriticCell
+property_value: id "Veiled cell" xsd:string
+
+[Term]
+id: VisceralSmoothMuscleCell
+is_a: SmoothMuscleCell
+property_value: id "Visceral smooth muscle cell" xsd:string
+
+[Term]
+id: ZonaFasciculataCell
+is_a: EpithelialTissue
+property_value: id "Zona fasciculata cell" xsd:string
+
+[Term]
+id: ZygoteneSpermatocyte
+is_a: PrimarySpermatocyte
+property_value: id "Zygotene spermatocyte" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Clubcell/bronchiolarExocrinecell/ClaraCell
+is_a: SimpleCuboidalCiliatedEpithelium
+property_value: id "Club cell/bronchiolar exocrine cell/Clara cell" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Dcell(X/Acell)
+is_a: EndothelialCell
+property_value: id "D cell(X/A cell)" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#FibroblasticSynovialcell/typeBCell
+is_a: Fibroblast
+property_value: id "Fibroblastic synovial cell/type B cell" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+is_a: PeudostratifiedColumnarEpithelium
+property_value: id "Respiratory epithelium/Pseudostratified ciliated columnar epithelium" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#SmallGranulecell/KulchitskyCell
+is_a: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Respiratoryepithelium/PseudostratifiedCiliatedColumnarEpithelium
+property_value: id "Small granule cell/Kulchitsky cell" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/bianc/ontologies/2021/5/untitled-ontology-20#Transitionalepithelium/StratifiedUrothelium
+is_a: CoveringEptihelium
+property_value: id "Transitional epithelium/Stratified urothelium" xsd:string
+
