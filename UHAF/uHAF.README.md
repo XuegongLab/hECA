@@ -1,4 +1,4 @@
-**U**nified **H**ierarchical Cell **A**nnotation **F**ramework (UHAF)
+**U**nified **H**ierarchical Cell **A**nnotation **F**ramework (uHAF)
 ========
 
 # Introduction
