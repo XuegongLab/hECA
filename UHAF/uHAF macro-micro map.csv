@@ -1,503 +1,505 @@
 organ,cell_type
-Spleen,Neutrophil
-Spleen,Plasma B cell
-Spleen,Centrocyte B cell
-Spleen,T cell
-Spleen,Erythrocyte
-Spleen,Macrophage
-Blood,Monocyte
-Blood,Conventional dendritic cell
-Blood,Erythrocyte
-Blood,Neutrophil
-Blood,Centrocyte B cell
-Blood,Unclassified
-Blood,Hemopoietic stem cell
-Blood,Plasmacytoid dendritic cell
-Blood,Plasma B cell
-Blood,NK cell
-Blood,T cell
-Blood,Megakaryocyte
-Blood,Macrophage
-Blood,Common myeloid progenitor/CMP or common granulocyte/megakaryocyte/erythrocyte progenitor/CFU
-Blood,Eosinophil
-Bone marrow,Erythrocyte
-Bone marrow,Neutrophil
-Bone marrow,Monocyte
-Bone marrow,Plasma B cell
-Bone marrow,T cell
-Bone marrow,Conventional dendritic cell
-Bone marrow,Macrophage
-Bone marrow,Hemopoietic stem cell
-Thymus,T cell
-Thymus,Unclassified
-Thymus,Proliferating T cell
-Thymus,Conventional dendritic cell
-Thymus,Erythrocyte
-Thymus,Activated T cell
-Colon,Plasma cell
-Colon,B cell
-Colon,Enterocyte
-Colon,Goblet cell
-Colon,Mast cell
-Colon,T cell
-Colon,Enterocyte progenitor
-Colon,Macrophage
-Colon,B cell(Plasmocyte)
-Colon,Smooth muscle cell
-Colon,Endothelial cell
-Colon,Fibroblast
-Colon,Stromal cell
-Colon,Unclassified
-Intestine,Enterocyte progenitor
-Intestine,Enterocyte
-Intestine,Neuron
-Intestine,Stromal cell
-Intestine,Macrophage
-Intestine,Proliferating cell
-Intestine,Endothelial cell
-Intestine,Smooth muscle cell
-Intestine,Goblet cell
-Intestine,Fibroblast
-Intestine,Endocrine cell
-Intestine,Vascular endothelial cell
-Intestine,Myofibroblast
-Intestine,Erythroid cell
-Intestine,Lymphatic endothelial cell
-Intestine,Erythrocyte
-Intestine,Dendritic cell
-Intestine,T cell
-Intestine,Antigen presenting cell
-Rectum,Enterocyte
-Rectum,B cell
-Rectum,Inflamed epithelial cell
-Rectum,T cell
-Rectum,Plasma cell
-Rectum,Enteric glial cell
-Rectum,Unclassified
-Rectum,Stromal cell
-Rectum,Macrophage
-Rectum,Mast cell
-Intestine,Mesothelial cell
-Intestine,Neutrophil
-Intestine,B cell
-Intestine,Macrophage/Neutrophil
-Intestine,Mast cell
-Intestine,Macrophage/Granulocyte
-Intestine,Granulocyte
-Colon,Adipocyte
-Colon,Schwann cell
-Colon,Epithelial cell
-Intestine,Schwann cell
-Intestine,Paneth cell
-Intestine,Unclassified
-Intestine,Enteroendocrine cell
-Duodenum,Goblet cell
-Duodenum,Enterocyte
-Duodenum,Enterocyte progenitor
-Duodenum,B cell
-Duodenum,Macrophage
-Duodenum,T cell
-Duodenum,Endothelial cell
-Duodenum,Fibroblast
-Ileum,B cell
-Ileum,Paneth cell
-Ileum,Macrophage
-Ileum,Mast cell
-Ileum,T cell
-Ileum,Endothelial cell
-Ileum,Enterocyte progenitor
-Ileum,Goblet cell
-Ileum,Fibroblast
-Ileum,Dendritic cell
-Ileum,Neuron
-Ileum,Smooth muscle cell
-Ileum,Enterocyte
-Jejunum,Enterocyte
-Jejunum,Macrophage
-Jejunum,Fibroblast
-Jejunum,Smooth muscle cell
-Jejunum,B cell
-Jejunum,T cell
-Jejunum,Mast cell
-Jejunum,Goblet cell
-Jejunum,Paneth cell
-Jejunum,Endothelial cell
-Bladder,Smooth muscle cell
-Bladder,Urothelial cell
-Bladder,Stromal cell
+Adipose,Adipocyte
+Adipose,Fibroblast
+Adipose,Macrophage
+Adipose,Unclassified
+Adrenal gland,Endothelial cell
+Adrenal gland,Macrophage
+Adrenal gland,Neuron
+Adrenal gland,Neutrophilic granulocyte
+Adrenal gland,Plasma B cell
+Adrenal gland,Smooth muscle cell
+Adrenal gland,Stromal cell
+Adrenal gland,Zona fasciculata cell
+Bladder,B cell
 Bladder,Endothelial cell
 Bladder,Macrophage
 Bladder,Mast cell
 Bladder,Perineural epithelial cell
-Bladder,B cell
-Ureter,Unclassified
-Ureter,Umbrella cell
-Ureter,Monocyte
-Ureter,B cell
-Ureter,Stromal cell
-Ureter,Superficial cell
-Kidney,Loop of henle
-Kidney,Intercalated cell
-Kidney,Proximal convoluted tubule
-Kidney,Macrophage
-Kidney,Endothelial cell
-Kidney,Principle cell
-Kidney,Distal convoluted tubule
-Kidney,Epithelial cell
-Kidney,Smooth muscle cell
-Kidney,T cell
-Kidney,B cell
-Kidney,Mast cell
-Kidney,Intercalated cell/Princple cell
-Kidney,Myeloid cell
-Kidney,Neutrophil
-Kidney,Dendritic cell
-Kidney,Mesenchymal cell
-Kidney,Ureteric bud cell
-Kidney,Fibroblast
-Kidney,Proximal convoluted tubule progenitor
-Kidney,Collecting duct
-Kidney,Ureteric epithelial cell
-Kidney,Podocyte
-Kidney,Loop of henle progenitor
-Kidney,Neuron
-Kidney,Erythrocyte
-Kidney,Proliferating cell
-Kidney,Unclassified
-Kidney,Neuroglial cell
-Kidney,Erythroid progenitor cell
-Kidney,Mesangial cell
-Kidney,Erythroid cell
-Stomach,Pit cell
-Stomach,Chief cell
-Stomach,B cell
-Stomach,Parietal cell
-Stomach,D cell/X/A cell
-Stomach,Stromal cell
-Stomach,Endothelial cell
-Stomach,Epithelial cell
-Stomach,Myeloid cell
-Stomach,Granulocyte
-Stomach,Macrophage
-Stomach,T cell
-Stomach,Mast cell
-Stomach,Smooth muscle cell
-Stomach,Unclassified
-Stomach,Chromaffin cell
-Stomach,CD8 T cell
-Stomach,Inflammatory cell
-Stomach,Fibroblast
-Stomach,Erythroid cell
-Stomach,Muscle cell
-Stomach,Antigen presenting cell
-Stomach,Neuron
-Stomach,Enterocyte
-Stomach,Dendritic cell
-Adipose,Macrophage
-Adipose,Fibroblast
-Adipose,Adipocyte
-Adipose,Unclassified
-Muscle,Smooth muscle cell
-Muscle,Fibroblast
-Muscle,Endothelial cell
-Muscle,Neutrophil
-Muscle,Dendritic cell
-Muscle,T cell
-Muscle,Muscle progenitor cell
-Muscle,B cell
-Muscle,Mast cell
-Muscle,Fast skeletal muscle cell
-Muscle,Unclassified
-Muscle,Neuron
-Muscle,Stromal cell
-Muscle,Skeletal muscle cell
-Muscle,Tendon cell
-Muscle,Autonomic nervous system
-Muscle,Erythroid cell
-Muscle,Macrophage
-Rib,Chondrocyte
-Rib,Unclassified
-Rib,Fibroblast
-Rib,Erythroid cell
-Rib,Neutrophil
-Rib,Osteoclast
-Rib,Endothelial cell
-Oesophagus,Epithelial cell
-Oesophagus,T cell
-Oesophagus,Dendritic cell
-Oesophagus,Unclassified
-Oesophagus,Endothelial cell
-Oesophagus,B cell
-Oesophagus,Mast cell
-Lung,Dendritic cell
-Lung,Type II alveolar cell
-Lung,Ciliated columnar cell
-Lung,Fibrocyte
-Lung,Macrophage
-Lung,Type I alveolar cell
-Lung,Mast cell
-Lung,Endothelial cell
-Lung,Vascular endothelial cell
-Lung,Type I alveolar cell/Type II alveolar cell
-Lung,NK cell
-Lung,B cell
-Lung,T cell
-Lung,Lymphatic endothelial cell
-Lung,Monocyte
-Lung,Smooth muscle cell
-Lung,epithelial cell
-Lung,Neutrophilic granulocyte
-Lung,Club cell
-Lung,Megakaryocyte
-Lung,Perineural epithelial cell
-Lung,Chondrocyte
-Lung,CD8 T cell
-Lung,Myeloid cell
-Lung,Plasma cell
-Lung,Mesenchymal cell
-Lung,Neuron
-Lung,Distal progenitor cell
-Lung,Pericyte
-Lung,Proximal progenitor cell
-Lung,Myoepithelial cell
-Pleura,Stromal cell
-Pleura,Fibrocyte
-Pleura,Unclassified
-Pleura,Perineural epithelial cell
-Pleura,Neutrophilic granulocyte
-Pleura,Mesothelium
-Pleura,NK cell
-Pleura,Macrophage
-Vessel,Fibrocyte
-Vessel,Endothelial cell
-Vessel,Macrophage
-Vessel,Stromal cell
-Vessel,B cell
-Vessel,Smooth muscle cell
-Vessel,T cell
-Vessel,Perineural epithelial cell
-Vessel,Basal cell
-Vessel,Mast cell
-Bronchi,Unclassified
+Bladder,Smooth muscle cell
+Bladder,Stromal cell
+Bladder,Urothelial cell
+Blood,Centrocyte B cell
+Blood,Common myeloid progenitor(CMP)
+Blood,Conventional dendritic cell
+Blood,Eosinophil granulocyte
+Blood,Erythrocyte
+Blood,Hemopoietic stem cell
+Blood,Macrophage
+Blood,Megakaryocyte
+Blood,Monocyte
+Blood,Neutrophilic granulocyte
+Blood,NK cell
+Blood,Plasma B cell
+Blood,Plasmacytoid dendritic cell
+Blood,T cell
+Blood,Unclassified
+Bone marrow,Conventional dendritic cell
+Bone marrow,Erythrocyte
+Bone marrow,Hemopoietic stem cell
+Bone marrow,Macrophage
+Bone marrow,Monocyte
+Bone marrow,Neutrophilic granulocyte
+Bone marrow,Plasma B cell
+Bone marrow,T cell
+Brain,Astrocyte
+Brain,Endothelial cell
+Brain,Endothelial cell/Pericyte
+Brain,Ependymal cell
+Brain,Erythrocyte
+Brain,Excitatory neuron
+Brain,Granule cell
+Brain,Inhibitory neuron
+Brain,Microglia
+Brain,Neural progenitor cell
+Brain,Neuron
+Brain,Oligodendrocyte
+Brain,Oligodendrocyte precursor cell
+Brain,Oligodendrocyte progenitor cell
+Brain,Oligodendrocyte/Astrocyte
+Brain,Progenitor cell
+Brain,Proliferating cell
+Brain,Purkinje cell
+Brain,PV inhibitory neuron
+Brain,Unclassified
+Brain,Vascular cell
+Brain,VIP inhibitory neuron
+Bronchi,B cell
 Bronchi,Basal cell
-Bronchi,Ciliated columnar cell
-Bronchi,Goblet cell
 Bronchi,Brush cell/Perineural epithelial cell
-Bronchi,lonocyte
+Bronchi,Chondrocyte
+Bronchi,Ciliated columnar cell
 Bronchi,Endothelial cell
+Bronchi,Fibrocyte
+Bronchi,Goblet cell
+Bronchi,Goblet cell/Basal cell
+Bronchi,Goblet cell/Ciliated columnar cell
+Bronchi,lonocyte
 Bronchi,Macrophage
 Bronchi,Perineural epithelial cell
-Bronchi,Fibrocyte
-Bronchi,Chondrocyte
 Bronchi,Smooth muscle cell
-Bronchi,B cell
-Heart,Endothelial cell
+Colon,Adipocyte
+Colon,B cell
+Colon,Endothelial cell
+Colon,Enterocyte
+Colon,Enterocyte progenitor
+Colon,Epithelial cell
+Colon,Fibroblast
+Colon,Goblet cell
+Colon,Macrophage
+Colon,Mast cell
+Colon,Plasma B cell
+Colon,Schwann cell
+Colon,Smooth muscle cell
+Colon,Stromal cell
+Colon,T cell
+Colon,Unclassified
+Duodenum,B cell
+Duodenum,Endothelial cell
+Duodenum,Enterocyte
+Duodenum,Enterocyte progenitor
+Duodenum,Fibroblast
+Duodenum,Goblet cell
+Duodenum,Macrophage
+Duodenum,T cell
+Eye,Amacrine cell
+Eye,Astrocyte
+Eye,B cell
+Eye,Bipolar cell
+Eye,Cone cell
+Eye,Endothelial cell
+Eye,Erythrocyte
+Eye,Fibroblast
+Eye,Ganglion cell
+Eye,Horizontal cell
+Eye,Melanocyte
+Eye,Microglia
+Eye,Muller cell
+Eye,Pericyte/Smooth muscle cell
+Eye,Pigment epithelial cell
+Eye,Retinal ganglion cell
+Eye,Rod cell
+Eye,Schwann cell
+Eye,T cell/NK cell
+Eye,Unclassified
+Eye,Vascular epithelial cell
+Gallbladder,B cell
+Gallbladder,Dendritic cell
+Gallbladder,Endothelial cell
+Gallbladder,Epithelial cell
+Gallbladder,Fibroblast
+Gallbladder,Lymphocyte
+Gallbladder,Macrophage
+Gallbladder,Mast cell
+Gallbladder,Neutrophilic granulocyte
+Gallbladder,Smooth muscle cell
+Gallbladder,Stromal cell
+Gallbladder,T cell
+Heart,Adipocyte
 Heart,Cardiomyocyte cell
+Heart,Dendritic cell
 Heart,Endocardial cell
-Heart,Macrophage
+Heart,Endothelial cell
+Heart,Erythrocyte
 Heart,Fibrocyte
 Heart,Lymphocyte
+Heart,Macrophage
 Heart,Neuron
-Heart,Pericyte
-Heart,Erythrocyte
-Heart,Vascular endothelial cell
-Heart,NK cell
-Heart,T cell
-Heart,Smooth muscle cell
-Heart,Dendritic cell
 Heart,Neutrophilic granulocyte
+Heart,Pericyte
+Heart,Smooth muscle cell
+Heart,T cell
 Heart,Unclassified
-Heart,To be Change
-Eye,Rod cell
-Eye,Amacrine cell
-Eye,Muller cell
-Eye,Bipolar cell
-Eye,Horizontal cell
-Eye,Cone cell
-Eye,Retinal ganglion cell
-Eye,Microglia
-Eye,Endothelial cell
-Eye,Unclassified
-Eye,T cell/NK cell
-Eye,Schwann cell
-Eye,Pericyte/Smooth muscle cell
-Eye,Fibroblast
-Eye,B cell
-Eye,Melanocyte
-Eye,Pigment epithelial cell
-Eye,Astrocyte
-Eye,Vascular epithelial cell
-Eye,Ganglion cell
-Eye,Erythrocyte
-Spinal cord,Erythrocyte
-Spinal cord,Motor neuron
-Spinal cord,Sympathetic neuron
-Spinal cord,Neutrophil
-Spinal cord,Unclassified
-Spinal cord,Fibroblast
-Spinal cord,Vascular epithelial cell
-Spinal cord,Macrophage
-Placenta,Macrophage
-Placenta,Epithelial cell
-Placenta,Stromal cell/Macrophage
-Placenta,Erythroid cell
-Skin,Neutrophil
-Skin,Endothelial cell
-Skin,Erythroid cell
-Skin,Keratinocyte
-Skin,Melanocyte
-Skin,Mesenchymal cell
-Skin,Fibroblast
-Skin,Proliferating cell
-Skin,Stromal cell
-Skin,Macrophage
-Skin,Unclassified
-Ovary,Germ cell/Theca cell
-Ovary,Erythroid cell
-Ovary,Germ cell
+Heart,Vascular endothelial cell
+Ileum,B cell
+Ileum,Dendritic cell
+Ileum,Endothelial cell
+Ileum,Enterocyte
+Ileum,Enterocyte progenitor
+Ileum,Fibroblast
+Ileum,Goblet cell
+Ileum,Macrophage
+Ileum,Mast cell
+Ileum,Neuron
+Ileum,Paneth cell
+Ileum,Smooth muscle cell
+Ileum,T cell
+Intestine,Antigen presenting cell
+Intestine,B cell
+Intestine,Dendritic cell
+Intestine,Endocrine cell
+Intestine,Endothelial cell
+Intestine,Enterocyte
+Intestine,Enterocyte progenitor
+Intestine,Enteroendocrine cell
+Intestine,Erythrocyte
+Intestine,Fibroblast
+Intestine,Goblet cell
+Intestine,Granulocyte
+Intestine,Lymphatic endothelial cell
+Intestine,Macrophage
+Intestine,Macrophage/Granulocyte
+Intestine,Macrophage/Neutrophilic granulocyte
+Intestine,Mast cell
+Intestine,Mesothelial cell
+Intestine,Myofibroblast
+Intestine,Neuron
+Intestine,Neutrophilic granulocyte
+Intestine,Paneth cell
+Intestine,Proliferating T cell
+Intestine,Schwann cell
+Intestine,Smooth muscle cell
+Intestine,Stromal cell
+Intestine,T cell
+Intestine,Unclassified
+Intestine,Vascular endothelial cell
+Jejunum,B cell
+Jejunum,Endothelial cell
+Jejunum,Enterocyte
+Jejunum,Fibroblast
+Jejunum,Goblet cell
+Jejunum,Macrophage
+Jejunum,Mast cell
+Jejunum,Paneth cell
+Jejunum,Smooth muscle cell
+Jejunum,T cell
+Kidney,B cell
+Kidney,Collecting duct
+Kidney,Dendritic cell
+Kidney,Distal convoluted tubule
+Kidney,Endothelial cell
+Kidney,Epithelial cell
+Kidney,Erythrocyte
+Kidney,Erythroid progenitor cell
+Kidney,Fibroblast
+Kidney,Intercalated cell
+Kidney,Intercalated cell/Princple cell
+Kidney,Loop of henle
+Kidney,Loop of henle progenitor
+Kidney,Macrophage
+Kidney,Mast cell
+Kidney,Mesangial cell
+Kidney,Mesenchymal cell
+Kidney,Myeloid cell
+Kidney,Neuroglial cell
+Kidney,Neuron
+Kidney,Neutrophilic granulocyte
+Kidney,Podocyte
+Kidney,Principle cell
+Kidney,Proliferating cell
+Kidney,Proximal convoluted tubule
+Kidney,Proximal convoluted tubule progenitor
+Kidney,Smooth muscle cell
+Kidney,T cell
+Kidney,Unclassified
+Kidney,Ureteric bud cell
+Kidney,Ureteric epithelial cell
+Liver,B cell
+Liver,Dendritic cell
+Liver,Endothelial cell
+Liver,Epithelial cell
+Liver,Erythrocyte
+Liver,Granulocyte
+Liver,Haematopoietic stem and progenitor cell
+Liver,Hepatocyte
+Liver,Kuppfer cell
+Liver,Macrophage
+Liver,Mast cell
+Liver,Monocyte
+Liver,Neutrophilic granulocyte
+Liver,Proliferating T cell
+Liver,Smooth muscle cell
+Liver,T cell
+Liver,Unclassified
+Lung,B cell
+Lung,CD8 T cell
+Lung,Chondrocyte
+Lung,Ciliated columnar cell
+Lung,Club cell
+Lung,Dendritic cell
+Lung,Distal progenitor cell
+Lung,Endothelial cell
+Lung,epithelial cell
+Lung,Fibrocyte
+Lung,Lymphatic endothelial cell
+Lung,Macrophage
+Lung,Mast cell
+Lung,Megakaryocyte
+Lung,Mesenchymal cell
+Lung,Monocyte
+Lung,Myeloid cell
+Lung,Myoepithelial cell
+Lung,Neuron
+Lung,Neutrophilic granulocyte
+Lung,NK cell
+Lung,Pericyte
+Lung,Perineural epithelial cell
+Lung,Plasma B cell
+Lung,Proximal progenitor cell
+Lung,Smooth muscle cell
+Lung,T cell
+Lung,Type I alveolar cell
+Lung,Type I alveolar cell/Type II alveolar cell
+Lung,Type II alveolar cell
+Lung,Unclassified
+Lung,Vascular endothelial cell
+Muscle,Autonomic nervous system
+Muscle,B cell
+Muscle,Dendritic cell
+Muscle,Endothelial cell
+Muscle,Erythrocyte
+Muscle,Fast skeletal muscle cell
+Muscle,Fibroblast
+Muscle,Macrophage
+Muscle,Mast cell
+Muscle,Muscle progenitor cell
+Muscle,Neuron
+Muscle,Neutrophilic granulocyte
+Muscle,Proliferating T cell
+Muscle,Skeletal muscle cell
+Muscle,Smooth muscle cell
+Muscle,Stromal cell
+Muscle,T cell
+Muscle,Tendon cell
+Muscle,Unclassified
+Oesophagus,B cell
+Oesophagus,Dendritic cell
+Oesophagus,Endothelial cell
+Oesophagus,Epithelial cell
+Oesophagus,Mast cell
+Oesophagus,T cell
 Ovary,Dendritic cell/Macrophage
-Ovary,Epithelial cell
 Ovary,Endothelial cell
-Ovary,T cell
-Ovary,Fibroblast
-Ovary,Smooth muscle cell
-Ovary,Unclassified
-Ovary,Macrophage
-Ovary,Stromal cell
+Ovary,Epithelial cell
 Ovary,Epithelial progenitor cell
-Uterus,Epithelial cell
-Uterus,Endothelial cell
-Uterus,Stromal cell
-Uterus,Smooth muscle cell
-Uterus,T cell/Mast cell
-Uterus,Macrophage
-Uterus,Stromal cell/B cell
-Uterine tube,Epithelial cell
-Uterine tube,B cell
-Uterine tube,Endothelial cell
-Uterine tube,Neutrophil
-Uterine tube,Macrophage
-Uterine tube,Fibroblast
-Uterine tube,Smooth muscle cell
-Uterine tube,Stromal cell
-Uterine tube,T cell/CD8_T cell
-Uterine tube,Mast cell
-Prostate,Unclassified
+Ovary,Erythrocyte
+Ovary,Fibroblast
+Ovary,Germ cell
+Ovary,Germ cell/Theca cell
+Ovary,Macrophage
+Ovary,Smooth muscle cell
+Ovary,Stromal cell
+Ovary,T cell
+Ovary,Unclassified
+Pancreas,Acinar cell
+Pancreas,Alpha cell
+Pancreas,B cell
+Pancreas,Beta cell
+Pancreas,Dendritic cell
+Pancreas,Ductal cell
+Pancreas,Endocrine cell
+Pancreas,Endothelial cell
+Pancreas,Erythrocyte
+Pancreas,Exocrine cell
+Pancreas,Fibroblast
+Pancreas,Macrophage
+Pancreas,Mast cell
+Pancreas,Mesenchymal cell
+Pancreas,Monocyte
+Pancreas,Neuron
+Pancreas,Neutrophilic granulocyte
+Pancreas,NK cell
+Pancreas,Plasma B cell
+Pancreas,Proliferating T cell
+Pancreas,Satellite cell
+Pancreas,Schwann cell
+Pancreas,Smooth muscle cell
+Pancreas,T cell
+Placenta,Epithelial cell
+Placenta,Erythrocyte
+Placenta,Macrophage
+Placenta,Stromal cell/Macrophage
+Pleura,Fibrocyte
+Pleura,Macrophage
+Pleura,Mesothelium
+Pleura,Neutrophilic granulocyte
+Pleura,NK cell
+Pleura,Perineural epithelial cell
+Pleura,Stromal cell
+Prostate,Endocrine cell
+Prostate,Endothelial cell
 Prostate,Epithelial cell
 Prostate,Luminal cell
 Prostate,Macrophage
-Prostate,Endocrine cell
-Prostate,Endothelial cell
+Prostate,Neuroendocrine cell
+Prostate,NK T cell
 Prostate,Smooth muscle cell
-Testis,Fasciculata cell
-Testis,Monocyte/Neutrophil
-Testis,Erythroid cell
-Testis,Endothelial cell
-Testis,Neutrophil
-Testis,Sertoli cell
-Testis,Spermatogonial stem cell
+Prostate,T cell
+Prostate,Unclassified
+Rectum,B cell
+Rectum,Enteric glial cell
+Rectum,Enterocyte
+Rectum,Inflamed epithelial cell
+Rectum,Macrophage
+Rectum,Mast cell
+Rectum,Plasma B cell
+Rectum,Stromal cell
+Rectum,T cell
+Rectum,Unclassified
+Rib,Chondrocyte
+Rib,Endothelial cell
+Rib,Erythrocyte
+Rib,Fibroblast
+Rib,Neutrophilic granulocyte
+Rib,Osteoclast
+Rib,T cell
+Skin,Endothelial cell
+Skin,Erythrocyte
+Skin,Fibroblast
+Skin,Keratinocyte
+Skin,Macrophage
+Skin,Melanocyte
+Skin,Mesenchymal cell
+Skin,Neutrophilic granulocyte
+Skin,Proliferating cell
+Skin,Stromal cell
+Spinal cord,Erythrocyte
+Spinal cord,Erythroid progenitor cell
+Spinal cord,Fibroblast
+Spinal cord,Macrophage
+Spinal cord,Motor neuron
+Spinal cord,Neutrophilic granulocyte
+Spinal cord,Sympathetic neuron
+Spinal cord,Vascular epithelial cell
+Spleen,Endothelial cell
+Spleen,Erythrocyte
+Spleen,Macrophage
+Spleen,Neutrophilic granulocyte
+Spleen,Plasma B cell
+Spleen,T cell
+Stomach,Antigen presenting cell
+Stomach,B cell
+Stomach,CD8 T cell
+Stomach,Chief cell
+Stomach,Chromaffin cell
+Stomach,D cell(X/A cell)
+Stomach,Dendritic cell
+Stomach,Endothelial cell
+Stomach,Enterocyte
+Stomach,Epithelial cell
+Stomach,Erythrocyte
+Stomach,Fibroblast
+Stomach,Granulocyte
+Stomach,Inflammatory cell
+Stomach,Macrophage
+Stomach,Mast cell
+Stomach,Muscle cell
+Stomach,Myeloid cell
+Stomach,Neuron
+Stomach,Parietal cell
+Stomach,Pit cell
+Stomach,Smooth muscle cell
+Stomach,Stromal cell
+Stomach,T cell
+Stomach,Unclassified
 Testis,Acinar cell
-Testis,Mesenchymal stromal cell
-Testis,Differentiating spermatogonia
 Testis,Differentiated spermatogonia
-Testis,Unclassified
-Testis,Spermatogenic cell
-Testis,Skeletal muscle cell
+Testis,Differentiating spermatogonia
+Testis,Endothelial cell
+Testis,Erythrocyte
+Testis,Fasciculata cell
 Testis,Fibroblast
+Testis,Mesenchymal stromal cell
+Testis,Monocyte/Neutrophilic granulocyte
+Testis,Neutrophilic granulocyte
+Testis,Neutrophilic granulocyte/Basophilic granulocyte
+Testis,Neutrophilic granulocyte/Eosinophilic granulocyte
+Testis,NK T cell
+Testis,Sertoli cell
+Testis,Spermatogenic cell
+Testis,Spermatogonial stem cell
 Testis,Tubule cell
-Testis,Neutrophil/Basophil
-Testis,Neutrophil/Eosinophil
-Brain,Excitatory neuron
-Brain,Inhibitory neuron
-Brain,Oligodendrocyte
-Brain,Astrocyte
-Brain,Microglia
-Brain,Oligodendrocyte precursor cell
-Brain,Endothelial cell
-Brain,Unclassified
-Brain,Endothelial cell/Pericyte
-Brain,Granule cell
-Brain,PV inhibitory neuron
-Brain,Purkinje cell
-Brain,Vascular cell
-Brain,Progenitor cell
-Brain,VIP inhibitory neuron
-Brain,Neural progenitor cell
-Brain,Oligodendrocyte progenitor cell
-Brain,Oligodendrocyte/Astrocyte
-Brain,Erythroid cell
-Brain,Proliferating cell
-Brain,Neuron
-Brain,Ependymal cell
-Pancreas,Endothelial cell
-Pancreas,Proliferating cell
-Pancreas,Fibroblast
-Pancreas,Erythrocyte
-Pancreas,Acinar cell
-Pancreas,T cell
-Pancreas,Neuron
-Pancreas,Dendritic cell
-Pancreas,Neutrophilic granulocyte
-Pancreas,Macrophage
-Pancreas,Endocrine cell
-Pancreas,Mast cell
-Pancreas,NK cell
-Pancreas,Smooth muscle cell
-Pancreas,Monocyte
-Pancreas,B cell
-Pancreas,Plasma cell
-Pancreas,Ductal cell
-Pancreas,Schwann cell
-Pancreas,Satellite cell
-Pancreas,Mesenchymal cell
-Pancreas,Exocrine cell
-Pancreas,Alpha cell
-Pancreas,Beta cell
-Liver,Erythrocyte
-Liver,Dendritic cell
-Liver,Neutrophilic granulocyte
-Liver,Kuppfer cell
-Liver,B cell
-Liver,Unclassified
-Liver,Mast cell
-Liver,Monocyte
-Liver,Haematopoietic stem and progenitor cell
-Liver,T cell
-Liver,Hepatocyte
-Liver,Macrophage
-Liver,Endothelial cell
-Liver,Epithelial cell
-Liver,Proliferating cell
-Liver,Smooth muscle cell
-Liver,Granulocyte
-Gallbladder,Stromal cell
-Gallbladder,Macrophage
-Gallbladder,T cell
-Gallbladder,Epithelial cell
-Gallbladder,Smooth muscle cell
-Gallbladder,Endothelial cell
-Gallbladder,Mast cell
-Gallbladder,Neutrophilic granulocyte
-Gallbladder,Lymphocyte
-Gallbladder,Dendritic cell
-Gallbladder,Fibroblast
-Gallbladder,B cell
-Thyroid,Follicular epithelial cell
-Thyroid,Smooth muscle cell
+Testis,Unclassified
+Thymus,Activated T cell
+Thymus,Conventional dendritic cell
+Thymus,Erythrocyte
+Thymus,Neutrophilic granulocyte
+Thymus,Proliferating T cell
+Thymus,Stromal cell
+Thymus,T cell
 Thyroid,Dendritic cell
 Thyroid,Endothelial cell
-Thyroid,Neutrophilic granulocyte
-Thyroid,T cell
 Thyroid,Fibroblast
+Thyroid,Follicular epithelial cell
+Thyroid,Neutrophilic granulocyte
 Thyroid,NK cell
-Thyroid,Plasma cell
+Thyroid,Plasma B cell
+Thyroid,Proliferating T cell
+Thyroid,Smooth muscle cell
 Thyroid,Stromal cell
-Thyroid,Proliferating cell
-Adrenal gland,Unclassified
-Adrenal gland,Plasma cell
-Adrenal gland,Neutrophilic granulocyte
-Adrenal gland,Macrophage
-Adrenal gland,Smooth muscle cell
-Adrenal gland,Stromal cell
-Adrenal gland,Endothelial cell
-Adrenal gland,Neuron
+Thyroid,T cell
+Ureter,B cell
+Ureter,Basal cell
+Ureter,Monocyte
+Ureter,Stroma cell
+Ureter,Superficial cell
+Ureter,T cell
+Ureter,Unclassified
+Ureter,Urothelial cell
+Uterine tube,B cell
+Uterine tube,Endothelial cell
+Uterine tube,Epithelial cell
+Uterine tube,Fibroblast
+Uterine tube,Macrophage
+Uterine tube,Mast cell
+Uterine tube,Neutrophilic granulocyte
+Uterine tube,Smooth muscle cell
+Uterine tube,Stromal cell
+Uterine tube,T cell/CD8_T cell
+Uterus,Endothelial cell
+Uterus,Epithelial cell
+Uterus,Macrophage
+Uterus,Smooth muscle cell
+Uterus,Stromal cell
+Uterus,Stromal cell/B cell
+Uterus,T cell/Mast cell
+Vessel,B cell
+Vessel,Basal cell
+Vessel,Endothelial cell
+Vessel,Fibrocyte
+Vessel,Macrophage
+Vessel,Mast cell
+Vessel,Perineural epithelial cell
+Vessel,Smooth muscle cell
+Vessel,Stromal cell
+Vessel,T cell
