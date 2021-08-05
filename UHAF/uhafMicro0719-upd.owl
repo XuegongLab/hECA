@@ -1,0 +1,2511 @@
+format-version: 1.2
+ontology: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/5HT3aRExpressingNeuron
+name: 5HT3aR expressing neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000002" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Acidophil
+name: Acidophil
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000136" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AcinarCell
+name: Acinar cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000145" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ActivatedTCell
+name: Activated T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000174" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AdaptiveLymphoidCell
+name: Adaptive lymphoid cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Lymphocyte ! Lymphocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000122" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Adipocyte
+name: Adipocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StromalCell ! Stromal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000040" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AlphaCell
+name: Alpha cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000146" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AlveolarCell
+name: Alveolar cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000088" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AlveolarMacrophage
+name: Alveolar macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000080" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AmacrineCell
+name: Amacrine cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BipolarCell ! Bipolar cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000053" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Ameloblast
+name: Ameloblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DentinalTissueCell ! Dentinal tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000119" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminergicNeuron
+name: Aminergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000055" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminoAcidNeuron
+name: Amino acid neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000018" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AmnionCell
+name: Amnion cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000027" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AntigenPresentingCell
+name: Antigen presenting cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Hemocyte ! Hemocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000179" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ApocrienSweatGlandCell
+name: Apocrien sweat gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SweatGlandCell ! Sweat gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000055" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ArrectorPiliMuscle
+name: Arrector pili muscle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DermalMuscle ! Dermal muscle
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000017" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Astrocyte
+name: Astrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000028" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AutonomicNervousSystem
+name: Autonomic nervous system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000047" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AutorhythmicCell
+name: Autorhythmic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cardiomyocyte ! Cardiomyocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000009" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/B1Cell
+name: B1 cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AdaptiveLymphoidCell ! Adaptive lymphoid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000043" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/B2Cell
+name: B2 cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000116" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell
+name: B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AdaptiveLymphoidCell ! Adaptive lymphoid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000062" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalCell
+name: Basal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000018" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalDecidualCell
+name: Basal decidual cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalCell ! Basal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000093" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalMembraneCell
+name: Basal membrane cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalCell ! Basal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000009" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasketCell
+name: Basket cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000054" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasophilicErythroblast
+name: Basophilic erythroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000160" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasophilicGranulocyte
+name: Basophilic granulocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte ! Granulocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000130" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasophilicMetamyelocyte
+name: Basophilic metamyelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000150" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasophilicMyelocyte
+name: Basophilic myelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000165" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BetaCell
+name: Beta cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000142" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BipolarCell
+name: Bipolar cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SensoryNeuron ! Sensory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000029" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Breg
+name: Breg
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000087" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BrushCell
+name: Brush cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000061" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD1-restrictedTCell
+name: CD1-restricted T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UnconventionalTCell ! Unconventional T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000101" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell
+name: CD4 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000019" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4Tcm
+name: CD4 Tcm
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD4TCell ! Memory CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000086" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4Tem
+name: CD4 Tem
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD4TCell ! Memory CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000047" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4Temra
+name: CD4 Temra
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD4TCell ! Memory CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000123" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4Treg
+name: CD4 Treg
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell ! CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000149" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4Trm
+name: CD4 Trm
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD4TCell ! Memory CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000168" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8TCell
+name: CD8 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000145" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tc1
+name: CD8 Tc1
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD8TCell ! Cytotoxic CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000112" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tc17
+name: CD8 Tc17
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD8TCell ! Cytotoxic CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000110" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tc2
+name: CD8 Tc2
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD8TCell ! Cytotoxic CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000089" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tc9
+name: CD8 Tc9
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD8TCell ! Cytotoxic CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000161" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tcm
+name: CD8 Tcm
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD8TCell ! Memory CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000014" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Tem
+name: CD8 Tem
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD8TCell ! Memory CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000013" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Temra
+name: CD8 Temra
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD8TCell ! Memory CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000090" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Treg
+name: CD8 Treg
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8TCell ! CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000155" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8Trm
+name: CD8 Trm
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD8TCell ! Memory CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000158" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CapillaryBasalMembraneCell
+name: Capillary basal membrane cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalMembraneCell ! Basal membrane cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000019" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CapillaryEndothelialCell
+name: Capillary endothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000069" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CardiacGland
+name: Cardiac gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000028" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cardiomyocyte
+name: Cardiomyocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleCell ! Muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000001" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cell
+name: Cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_0000-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cementocyte
+name: Cementocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DentinalTissueCell ! Dentinal tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000020" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CentroacinarCell
+name: Centroacinar cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000135" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CentrocyteBCell
+name: Centrocyte B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GerminalCenterBCell ! Germinal center B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000157" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ChiefCell
+name: Chief cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FundicGland ! Fundic gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000130" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cholangiocyte
+name: Cholangiocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000116" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CholinergicNeuron
+name: Cholinergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminoAcidNeuron ! Amino acid neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000041" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Chondroblast
+name: Chondroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell ! Osseous tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000015" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Chondrocyte
+name: Chondrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell ! Osseous tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000012" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ChromaffinCell
+name: Chromaffin cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000045" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Chromophobe
+name: Chromophobe
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000015" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CiliatedCell
+name: Ciliated cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000029" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ClearCell
+name: Clear cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EccrineSweatGlandCell ! Eccrine sweat gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000101" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Clubcell(BronchiolarExocrinecell/Claracell)
+name: Club cell(Bronchiolar exocrine cell/Clara cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000037" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CollectingDuct
+name: Collecting duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000132" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Colonocyte
+name: Colonocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000137" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CommonDendriticCellprogenitor(CDP)
+name: Common dendritic cell progenitor(CDP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteProgenitor ! Monocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000120" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CommonLymphoidprogenitor(CLP)
+name: Common lymphoid progenitor(CLP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000092" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CommonMyeloidprogenitor(CMP)
+name: Common myeloid progenitor(CMP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000167" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConeCell
+name: Cone cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PhotoreceptorCell ! Photoreceptor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000043" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue
+name: Connective tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cell ! Cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConventionalDC1
+name: Conventional DC1
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConventionalDendriticCell ! Conventional dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000010" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConventionalDC2
+name: Conventional DC2
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConventionalDendriticCell ! Conventional dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000113" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConventionalDendriticCell
+name: Conventional dendritic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell ! Dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000051" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CorticalThymicEpithelialCell
+name: Cortical thymic epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThymicEpithelialCell ! Thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000031" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Corticotroph
+name: Corticotroph
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000077" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cuboidal(Columnarcell)
+name: Cuboidal(Columnar cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalEpithelialcell(StratifiedUrothelialcell) ! Transitional epithelial cell(Stratified urothelial cell)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000044" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD4TCell
+name: Cytotoxic CD4 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell ! CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000141" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CytotoxicCD8TCell
+name: Cytotoxic CD8 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8TCell ! CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000082" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/D1Cell
+name: D1 cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000131" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DNESSmallGranuleCell
+name: DNES small granule cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000051" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DarkCell
+name: Dark cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EccrineSweatGlandCell ! Eccrine sweat gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000064" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Dcell(X/Acell)
+name: D cell(X/A cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000060" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DeltaCell
+name: Delta cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000010" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell
+name: Dendritic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000017" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DentinalTissueCell
+name: Dentinal tissue cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000036" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DermalMuscle
+name: Dermal muscle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SkeletalMuscleCell ! Skeletal muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000014" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DifferentiatedSpermatogonia
+name: Differentiated spermatogonia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Spermatogonia ! Spermatogonia
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000140" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DifferentiatingSpermatogonia
+name: Differentiating spermatogonia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Spermatogonia ! Spermatogonia
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000141" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DiploteneSpermatocyte
+name: Diplotene spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimarySpermatocyte ! Primary spermatocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000134" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DistalConvolutedTubule
+name: Distal convoluted tubule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000053" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DistalProgenitorCell
+name: Distal progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000102" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DopaminergicNeuron
+name: Dopaminergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminergicNeuron ! Aminergic neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000051" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DoubleNegetiveTCellPrecursor
+name: Double Negetive T cell precursor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000068" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DoublePositiveTCell
+name: Double positive T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000008" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DoublePositiveTCellPrecursor
+name: Double Positive T cell precursor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000081" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DuctalCell
+name: Ductal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000096" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Duodenalgland(Brunner'sgland)
+name: Duodenal gland(Brunner's gland)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000038" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EarlyInnateLymphoidprogenitor(EILP)
+name: Early innate lymphoid progenitor(EILP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000091" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EarlyThymicprogenitor(ETP)
+name: Early thymic progenitor(ETP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000175" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EccrineSweatGlandCell
+name: Eccrine sweat gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SweatGlandCell ! Sweat gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000059" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocardialCell
+name: Endocardial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000022" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell
+name: Endocrine cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecretoryEpithelialCell ! Secretory epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000004" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndometrialStemCell
+name: Endometrial stem cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000014" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell
+name: Endothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000117" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EntericGlialCell
+name: Enteric glial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000019" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EntericNervalCell
+name: Enteric nerval cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000011" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Enterocyte
+name: Enterocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000062" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EnterocyteProgenitor
+name: Enterocyte progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000126" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EnteroendocrineCell
+name: Enteroendocrine cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000050" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EosinophilicGranulocyte
+name: Eosinophilic granulocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte ! Granulocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000132" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EosinophilicMetamyelocyte
+name: Eosinophilic metamyelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000108" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EosinophilicMyelocyte
+name: Eosinophilic myelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000111" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpendymalCell
+name: Ependymal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000062" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Epinephrine-secretingCell
+name: Epinephrine-secreting cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ChromaffinCell ! Chromaffin cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000003" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell
+name: Epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000127" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialProgenitorCell
+name: Epithelial progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000112" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialStemCell
+name: Epithelial stem cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000017" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue
+name: Epithelial tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cell ! Cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Erythrocyte
+name: Erythrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000029" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell
+name: Erythroid progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000170" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExcitatoryNeuron
+name: Excitatory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000064" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell
+name: Exocrine cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecretoryEpithelialCell ! Secretory epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000091" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExtraglomerularMesangialcell(PolarCushioncell)
+name: Extraglomerular mesangial cell(Polar cushion cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularSmoothMuscleCell ! Vascular smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000018" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FasciculataCell
+name: Fasciculata cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000105" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FastSkeletalMuscleCell
+name: Fast skeletal muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SkeletalMuscleCell ! Skeletal muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000012" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibroblast
+name: Fibroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StromalCell ! Stromal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000115" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FibroblasticSynovialcell(TypeBcell)
+name: Fibroblastic synovial cell(Type B cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibroblast ! Fibroblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000166" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibrocyte
+name: Fibrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibroblast ! Fibroblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000002" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FibrousAstrocyte
+name: Fibrous astrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Astrocyte ! Astrocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000048" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FollicularBCell
+name: Follicular B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/B2Cell ! B2 cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000163" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FollicularCell
+name: Follicular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PeriovularCell ! Periovular cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000045" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FollicularEpithelialCell
+name: Follicular epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000138" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FundicGland
+name: Fundic gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000039" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FusiformCell
+name: Fusiform cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000023" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GABAergicNeuron
+name: GABAergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminoAcidNeuron ! Amino acid neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000057" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GammaCell
+name: Gamma cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000033" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GammaDeltaTCell
+name: Gamma delta T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UnconventionalTCell ! Unconventional T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000077" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GanglionCell
+name: Ganglion cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SensoryNeuron ! Sensory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000020" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GermCell
+name: Germ cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell ! Ovarian connective tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000084" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GerminalCenterBCell
+name: Germinal center B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000176" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GlutamatergicNeuron
+name: Glutamatergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminoAcidNeuron ! Amino acid neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000032" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GobletCell
+name: Goblet cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000002" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GolgiCell
+name: Golgi cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000037" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Gonadotroph
+name: Gonadotroph
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000080" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranuleCell
+name: Granule cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExcitatoryNeuron ! Excitatory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000035" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte
+name: Granulocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000057" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte-monocyte-lymphoidProgenitor
+name: Granulocyte-monocyte-lymphoid progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MultipotentHematopoieticProgenitor ! Multipotent hematopoietic progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000072" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte-monocyteprogenitor(GMP)
+name: Granulocyte-monocyte progenitor(GMP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000114" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor
+name: Granulocyte progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000124" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulosaCell
+name: Granulosa cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PeriovularCell ! Periovular cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000180" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulosaLuteinCell
+name: Granulosa lutein cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulosaCell ! Granulosa cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000022" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GustatoryCell
+name: Gustatory cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000008" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HaematopoieticStemAndProgenitorCell
+name: Haematopoietic stem and progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000030" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HairMatrixCell
+name: Hair matrix cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000177" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell
+name: Helper T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell ! CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000061" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Hemocyte
+name: Hemocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000071" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HemopoieticStemcell(HSC)
+name: Hemopoietic stem cell(HSC)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HaematopoieticStemAndProgenitorCell ! Haematopoietic stem and progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000074" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HepaticStellateCell
+name: Hepatic stellate cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000102" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Hepatocyte
+name: Hepatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000095" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HilusCell
+name: Hilus cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell ! Ovarian connective tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000156" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HistaminergicNeuron
+name: Histaminergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminoAcidNeuron ! Amino acid neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000015" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HorizontalCell
+name: Horizontal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BipolarCell ! Bipolar cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000038" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ILC1
+name: ILC1
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC) ! Innate lymphoid cell(ILC)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000121" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ILC2
+name: ILC2
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC) ! Innate lymphoid cell(ILC)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000146" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ILC3
+name: ILC3
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC) ! Innate lymphoid cell(ILC)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000125" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InflamedEpithelialCell
+name: Inflamed epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000082" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InflammatoryCell
+name: Inflammatory cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000143" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron
+name: Inhibitory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000046" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC)
+name: Innate lymphoid cell(ILC)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Lymphocyte ! Lymphocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000049" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidprogenitor(ILCP)
+name: Innate lymphoid progenitor(ILCP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000128" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntercalatedCell
+name: Intercalated cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CollectingDuct ! Collecting duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000013" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InterdigitatingCell
+name: Interdigitating cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell ! Dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000075" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InterplexiformCell
+name: Interplexiform cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BipolarCell ! Bipolar cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000052" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InterstitialCell
+name: Interstitial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000133" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InterstitialMacrophage
+name: Interstitial macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000131" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntestinalGland
+name: Intestinal gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000084" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntraglomerularMesangialCell
+name: Intraglomerular mesangial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularSmoothMuscleCell ! Vascular smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000019" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntrinsicallyPhotosensitiveRetinalGanglionCell(ipRGC)
+name: Intrinsically photosensitive retinal ganglion cell (ipRGC)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SensoryNeuron ! Sensory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000024" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Ionocyte
+name: Ionocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000021" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/JuxtaglomerularCell
+name: Juxtaglomerular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularSmoothMuscleCell ! Vascular smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000006" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Keratinocyte
+name: Keratinocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000124" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Keratocyte
+name: Keratocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibroblast ! Fibroblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000172" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/KupfferCell
+name: Kupffer cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000039" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LTiProgenitor
+name: LTi progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000151" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LangerhansCell
+name: Langerhans cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Tissue-residentMacrophage ! Tissue-resident macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000021" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LanghansGiantCell
+name: Langhans giant cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteDerivedDendriticCell ! Monocyte derived dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000118" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LargeDP
+name: Large DP
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DoublePositiveTCell ! Double positive T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000059" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LeptoteneSpermatocyte
+name: Leptotene spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimarySpermatocyte ! Primary spermatocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000074" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LeydigCell
+name: Leydig cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InterstitialCell ! Interstitial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000046" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LoopOfHenle
+name: Loop of henle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000072" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LoopOfHenleProgenitor
+name: Loop of henle progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000046" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LuminalCell
+name: Luminal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000012" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LymphaticEndothelialCell
+name: Lymphatic endothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000081" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LymphaticSmoothCell
+name: Lymphatic smooth cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell ! Smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000022" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LymphaticSmoothMuscleCell
+name: Lymphatic smooth muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell ! Smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000015" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Lymphocyte
+name: Lymphocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Hemocyte ! Hemocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000034" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Lymphoid-primedMultipotentProgenitor
+name: Lymphoid-primed multipotent progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000159" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LymphoidTissueinducer(LTi)
+name: Lymphoid tissue inducer(LTi)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC) ! Innate lymphoid cell(ILC)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000064" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor
+name: Lympohoid progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HaematopoieticStemAndProgenitorCell ! Haematopoietic stem and progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000006" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MAITCell
+name: MAIT cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UnconventionalTCell ! Unconventional T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000018" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage
+name: Macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000054" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MacrophageDendriticCellProgenitor
+name: Macrophage dendritic cell progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteProgenitor ! Monocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000152" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MaculaDensaCell
+name: Macula densa cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000042" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Mammotroph
+name: Mammotroph
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Acidophil ! Acidophil
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000075" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MarginalZoneBCell
+name: Marginal zone B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/B2Cell ! B2 cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000004" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MastCell
+name: Mast cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte ! Granulocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000011" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MastCellprogenitor(MCP)
+name: Mast cell progenitor(MCP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteProgenitor ! Monocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000097" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MedullaryEpithelialCell
+name: Medullary epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MedullaryThymicEpithelialCell ! Medullary thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000067" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MedullaryThymicEpithelialCell
+name: Medullary thymic epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThymicEpithelialCell ! Thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000123" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Megakaryoblast
+name: Megakaryoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000031" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Megakaryocyte
+name: Megakaryocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000178" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MegakaryocyteErythrocyteprogenitor(MEP)
+name: Megakaryocyte erythrocyte progenitor(MEP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000162" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Melanocyte
+name: Melanocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000119" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryBCell
+name: Memory B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000117" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD4TCell
+name: Memory CD4 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell ! CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000033" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MemoryCD8TCell
+name: Memory CD8 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8TCell ! CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000079" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MerkelCell
+name: Merkel cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000060" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MesangialCell
+name: Mesangial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000032" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MesenchymalCell
+name: Mesenchymal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000103" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MesenchymalStromalCell
+name: Mesenchymal stromal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StromalCell ! Stromal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000107" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MesothelialCell
+name: Mesothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000104" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Microfoldcell(Mcell)
+name: Microfold cell(M cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntestinalGland ! Intestinal gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000032" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Microglia
+name: Microglia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000061" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MitralCell
+name: Mitral cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000022" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Monocyte
+name: Monocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000035" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Monocyte-dendriticCellprogenitor(MDP)
+name: Monocyte-dendritic cell progenitor(MDP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000066" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Monocyte-derivedMacrophage
+name: Monocyte-derived macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000024" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteDerivedDendriticCell
+name: Monocyte derived dendritic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell ! Dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000037" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteProgenitor
+name: Monocyte progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor ! Myeloid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000050" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MotorNeuron
+name: Motor neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000005" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MucousGlandCell
+name: Mucous gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000036" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MucousNeckCell
+name: Mucous neck cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FundicGland ! Fundic gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000001" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MullerCell
+name: Muller cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000034" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MultipotentHematopoieticProgenitor
+name: Multipotent hematopoietic progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HaematopoieticStemAndProgenitorCell ! Haematopoietic stem and progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000094" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Multipotentprogenitor(MPP)
+name: Multipotent progenitor(MPP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MultipotentHematopoieticProgenitor ! Multipotent hematopoietic progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000025" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleCell
+name: Muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleTissue ! Muscle tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000002" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleProgenitorCell
+name: Muscle progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleTissue ! Muscle tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000020" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleSatelliteCell
+name: Muscle satellite cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleProgenitorCell ! Muscle progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000010" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleTissue
+name: Muscle tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cell ! Cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell
+name: Myeloid cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Hemocyte ! Hemocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000067" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidProgenitor
+name: Myeloid progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HaematopoieticStemAndProgenitorCell ! Haematopoietic stem and progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000126" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyoepithelialCell
+name: Myoepithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000043" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Myofibroblast
+name: Myofibroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Fibroblast ! Fibroblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000065" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyoidCell
+name: Myoid cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyoepithelialCell ! Myoepithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000011" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NCR+ILC3
+name: NCR+ ILC3
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ILC3 ! ILC3
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000173" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NCR-ILC3
+name: NCR- ILC3
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ILC3 ! ILC3
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000106" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NKCell
+name: NK cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InnateLymphoidcell(ILC) ! Innate lymphoid cell(ILC)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000055" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NKTCell
+name: NK T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UnconventionalTCell ! Unconventional T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000085" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NKprogenitor(NKP)
+name: NK progenitor(NKP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000154" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NaïveBCell
+name: Naïve B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000109" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NaïveCD4TCell
+name: Naïve CD4 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD4TCell ! CD4 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000005" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NaïveCD8TCell
+name: Naïve CD8 T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CD8TCell ! CD8 T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000076" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NaïveTCell
+name: Naïve T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000127" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue
+name: Nerve tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cell ! Cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuralProgenitorCell
+name: Neural progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000036" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroendocrineCell
+name: Neuroendocrine cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000085" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell
+name: Neuroglial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000016" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron
+name: Neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000030" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeutrophilicGranulocyte
+name: Neutrophilic granulocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Granulocyte ! Granulocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000142" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeutrophilicMetamyelocyte
+name: Neutrophilic metamyelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000070" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeutrophilicMyelocyte
+name: Neutrophilic myelocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GranulocyteProgenitor ! Granulocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000042" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Nonepinephrine-secretingCell
+name: Nonepinephrine-secreting cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ChromaffinCell ! Chromaffin cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000113" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NoradrenergicNeuron
+name: Noradrenergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminergicNeuron ! Aminergic neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000013" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Odontoblast
+name: Odontoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DentinalTissueCell ! Dentinal tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000138" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OlfactoryNeuron
+name: Olfactory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000058" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Oligodendrocyte
+name: Oligodendrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000027" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OligodendrocytePrecursorCell(OPC)
+name: Oligodendrocyte precursor cell (OPC)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000050" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Oocyte(Ootid/Ovum)
+name: Oocyte(Ootid/Ovum)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GermCell ! Germ cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000136" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OocyteProgenitor
+name: Oocyte progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell ! Ovarian connective tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000096" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OogonialStemCell
+name: Oogonial stem cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000020" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Orthochromatophilicerythroblast(Normoblast)
+name: Orthochromatophilic erythroblast(Normoblast)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000137" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell
+name: Osseous tissue cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000139" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Osteoblast
+name: Osteoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell ! Osseous tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000007" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Osteoclast
+name: Osteoclast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell ! Osseous tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000023" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Osteocyte
+name: Osteocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OsseousTissueCell ! Osseous tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000001" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell
+name: Ovarian connective tissue cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000056" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OxynticCell
+name: Oxyntic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FundicGland ! Fundic gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000063" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PVInhibitoryNeuron
+name: PV inhibitory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000033" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PacemakerCell
+name: Pacemaker cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AutorhythmicCell ! Autorhythmic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000005" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PachyteneSpermatocyte
+name: Pachytene spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimarySpermatocyte ! Primary spermatocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000035" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PanethCell
+name: Paneth cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/IntestinalGland ! Intestinal gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000100" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ParafollicularCell
+name: Parafollicular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000068" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ParietalCell
+name: Parietal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/FundicGland ! Fundic gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000098" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PeptidergicNeuron
+name: Peptidergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000025" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Pericyte
+name: Pericyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000118" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PerineuralEpithelialCell
+name: Perineural epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000079" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PeriovularCell
+name: Periovular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell ! Ovarian connective tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000147" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PhotoreceptorCell
+name: Photoreceptor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SensoryNeuron ! Sensory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000014" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PigmentEpithelialCell
+name: Pigment epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000106" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Pinealocyte
+name: Pinealocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000120" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PitCell
+name: Pit cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000056" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Pituicyte
+name: Pituicyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000009" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PlasmaBCell
+name: Plasma B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000038" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Plasmablast
+name: Plasmablast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BCell ! B cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000044" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PlasmacytoidDendriticCell
+name: Plasmacytoid dendritic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell ! Dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000129" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Podocyte
+name: Podocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000049" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolarBody
+name: Polar body
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OvarianConnectiveTissueCell ! Ovarian connective tissue cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000148" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolychromatophilicErythroblast
+name: Polychromatophilic erythroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000134" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolyhedralCell
+name: Polyhedral cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000005" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Pre-BCell
+name: Pre-B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000016" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PreConventionalDendriticCell
+name: Pre conventional dendritic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MonocyteProgenitor ! Monocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000083" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PredecidualCell
+name: Predecidual cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/BasalCell ! Basal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000090" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrickleCell
+name: Prickle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolyhedralCell ! Polyhedral cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000103" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimaryOocyte
+name: Primary oocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OocyteProgenitor ! Oocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000026" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimaryPolarBody
+name: Primary polar body
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolarBody ! Polar body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000009" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimarySpermatocyte
+name: Primary spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SpermatogenicCell ! Spermatogenic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000105" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrincipleCell
+name: Principle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CollectingDuct ! Collecting duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000078" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Pro-BCell
+name: Pro-B cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000135" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Proerythroblast
+name: Proerythroblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000041" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProgenitorCell
+name: Progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000045" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProliferatingCell
+name: Proliferating cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleTissue ! Muscle tissue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NerveTissue ! Nerve tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-100000" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-100000" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-100000" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-100000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProliferatingTCell
+name: Proliferating T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000048" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Promegakaryocyte
+name: Promegakaryocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ErythroidProgenitorCell ! Erythroid progenitor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000099" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProtoplasmicAstrocyte
+name: Protoplasmic astrocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Astrocyte ! Astrocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000042" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProximalConvolutedTubule
+name: Proximal convoluted tubule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000115" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProximalConvolutedTubuleProgenitor
+name: Proximal convoluted tubule progenitor
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell ! Renal tubular epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000016" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ProximalProgenitorCell
+name: Proximal progenitor cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000070" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PurkinjeCell
+name: Purkinje cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000004" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PurkinjeFiber
+name: Purkinje fiber
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AutorhythmicCell ! Autorhythmic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000011" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PyloricGland
+name: Pyloric gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000108" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PyramidalNeuron
+name: Pyramidal neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000049" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ReelinExpressingNeuron
+name: Reelin expressing neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/5HT3aRExpressingNeuron ! 5HT3aR expressing neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000021" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenalTubularEpithelialCell
+name: Renal tubular epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000023" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RenshawCell
+name: Renshaw cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MotorNeuron ! Motor neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000007" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ReticularCell
+name: Reticular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StromalCell ! Stromal cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000069" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Reticulocyte
+name: Reticulocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MyeloidCell ! Myeloid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000104" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RetinalGanglionCell
+name: Retinal ganglion cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/GanglionCell ! Ganglion cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000017" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ReverseCell
+name: Reverse cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000034" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/RodCell
+name: Rod cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PhotoreceptorCell ! Photoreceptor cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000026" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SOMInhibitoryNeuron
+name: SOM inhibitory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000059" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SatelliteCell
+name: Satellite cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000044" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SchwannCell
+name: Schwann cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NeuroglialCell ! Neuroglial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000040" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SebaceousCell
+name: Sebaceous cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SebaceousGlandCell ! Sebaceous gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000066" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SebaceousGlandCell
+name: Sebaceous gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000143" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecondaryOocyte
+name: Secondary oocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/OocyteProgenitor ! Oocyte progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000093" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecondaryPolarBody
+name: Secondary polar body
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PolarBody ! Polar body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000144" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecondarySpermatocyte
+name: Secondary spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SpermatogenicCell ! Spermatogenic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000121" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecretoryEpithelialCell
+name: Secretory epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000076" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SecretoryNeuron
+name: Secretory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000003" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SensoryNeuron
+name: Sensory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000056" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SerotonergicNeuron
+name: Serotonergic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AminergicNeuron ! Aminergic neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000001" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SerousGlandCell
+name: Serous gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000097" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SertoliCell
+name: Sertoli cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SustentacularCell ! Sustentacular cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000125" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SinusoidalEndothelialCell
+name: Sinusoidal endothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000024" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SkeletalMuscleCell
+name: Skeletal muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleCell ! Muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000003" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmallDP
+name: Small DP
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DoublePositiveTCell ! Double positive T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000063" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmallGranulecell(Kulchitskycell)
+name: Small granule cell(Kulchitsky cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000052" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell
+name: Smooth muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleCell ! Muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000008" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Somatotroph
+name: Somatotroph
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Acidophil ! Acidophil
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000147" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Sperm
+name: Sperm
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000073" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Spermatid
+name: Spermatid
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000054" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SpermatogenicCell
+name: Spermatogenic cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000114" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Spermatogonia
+name: Spermatogonia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SpermatogenicCell ! Spermatogenic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000133" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SpermatogonialStemCell
+name: Spermatogonial stem cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000092" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StellateCell
+name: Stellate cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/InhibitoryNeuron ! Inhibitory neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000063" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StellateEpithelialCell
+name: Stellate epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CorticalThymicEpithelialCell ! Cortical thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000144" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StromalCell
+name: Stromal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ConnectiveTissue ! Connective tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000058" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SubcapsuleEpithelialCell
+name: Subcapsule epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/CorticalThymicEpithelialCell ! Cortical thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000057" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SuperficialCell
+name: Superficial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalEpithelialcell(StratifiedUrothelialcell) ! Transitional epithelial cell(Stratified urothelial cell)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000041" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SurfaceMucousCell
+name: Surface mucous cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MucousGlandCell ! Mucous gland cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000047" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SustentacularCell
+name: Sustentacular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000087" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SweatGlandCell
+name: Sweat gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000122" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SympatheticNeuron
+name: Sympathetic neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000010" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell
+name: T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AdaptiveLymphoidCell ! Adaptive lymphoid cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000098" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TendonCell
+name: Tendon cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MuscleTissue ! Muscle tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000007" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Tfh
+name: Tfh
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000053" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Th1
+name: Th1
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000140" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Th17
+name: Th17
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000003" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Th2
+name: Th2
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000027" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Th22
+name: Th22
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000028" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Th9
+name: Th9
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/HelperTCell ! Helper T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000052" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThecaCell
+name: Theca cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PeriovularCell ! Periovular cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000100" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThecaLuteinCell
+name: Theca lutein cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThecaCell ! Theca cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000164" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThymicCorpuscleEpithelialCell
+name: Thymic corpuscle epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MedullaryThymicEpithelialCell ! Medullary thymic epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000006" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThymicEpithelialCell
+name: Thymic epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000109" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ThymicNurseCell
+name: Thymic nurse cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/StellateEpithelialCell ! Stellate epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000048" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Thyrotroph
+name: Thyrotroph
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000008" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Tissue-residentMacrophage
+name: Tissue-resident macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000088" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TrachealGlandCell
+name: Tracheal gland cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ExocrineCell ! Exocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000111" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TractCell
+name: Tract cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/MotorNeuron ! Motor neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000012" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalCell
+name: Transitional cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AutorhythmicCell ! Autorhythmic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000016" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalEpithelialcell(StratifiedUrothelialcell)
+name: Transitional epithelial cell(Stratified urothelial cell)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000025" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TrophoblastCell
+name: Trophoblast cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000065" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TubuleCell
+name: Tubule cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000107" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TuftedCell
+name: Tufted cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Neuron ! Neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000006" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TumorAssociatedMacrophage
+name: Tumor associated macrophage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Macrophage ! Macrophage
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000169" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TypeIAlveolarcell(TypeIpneumocyte)
+name: Type I alveolar cell(Type I pneumocyte)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AlveolarCell ! Alveolar cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000110" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TypeIIAlveolarcell(TypeIIpneumocyte)
+name: Type II alveolar cell(Type II pneumocyte)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/AlveolarCell ! Alveolar cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000030" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TypeIINKT
+name: Type II NKT
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NKTCell ! NK T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000060" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TypeINKT
+name: Type I NKT
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/NKTCell ! NK T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000078" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UmbrellaCell
+name: Umbrella cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalEpithelialcell(StratifiedUrothelialcell) ! Transitional epithelial cell(Stratified urothelial cell)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000083" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UnconventionalTCell
+name: Unconventional T cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TCell ! T cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000095" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UretericBudCell
+name: Ureteric bud cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000058" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UretericEpithelialCell
+name: Ureteric epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000071" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/UrothelialCell
+name: Urothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/TransitionalEpithelialcell(StratifiedUrothelialcell) ! Transitional epithelial cell(Stratified urothelial cell)
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000129" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VIPInhibitoryNeuron
+name: VIP inhibitory neuron
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/5HT3aRExpressingNeuron ! 5HT3aR expressing neuron
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1004-000039" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularCell
+name: Vascular cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialTissue ! Epithelial tissue
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000026" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularEndothelialCell
+name: Vascular endothelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndothelialCell ! Endothelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000099" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularEpithelialCell
+name: Vascular epithelial cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000128" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularParietalCell
+name: Vascular parietal cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EpithelialCell ! Epithelial cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000086" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularSmoothCell
+name: Vascular smooth cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell ! Smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000013" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VascularSmoothMuscleCell
+name: Vascular smooth muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell ! Smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000023" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VeiledCell
+name: Veiled cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/DendriticCell ! Dendritic cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000073" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/VisceralSmoothMuscleCell
+name: Visceral smooth muscle cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/SmoothMuscleCell ! Smooth muscle cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000021" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/WorkingCell
+name: Working cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/Cardiomyocyte ! Cardiomyocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1003-000004" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ZonaFasciculataCell
+name: Zona fasciculata cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000007" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ZonaGlomerulosaCell
+name: Zona glomerulosa cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000139" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ZonaSeticularisCell
+name: Zona seticularis cell
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/EndocrineCell ! Endocrine cell
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000040" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/ZygoteneSpermatocyte
+name: Zygotene spermatocyte
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/PrimarySpermatocyte ! Primary spermatocyte
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1002-000094" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/α-lymphoidprogenitor(αLP)
+name: α-lymphoid progenitor(αLP)
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/LympohoidProgenitor ! Lympohoid progenitor
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-13/id "UHAF_1001-000171" xsd:string
+

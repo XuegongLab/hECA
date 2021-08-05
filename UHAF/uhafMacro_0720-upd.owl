@@ -1,0 +1,1786 @@
+format-version: 1.2
+ontology: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-14/CollectingDuct
+name: Collecting duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Kidney ! Kidney
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000054" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AbdominalOrificeOfUterineTube
+name: Abdominal orifice of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InfundibulumOfUterineTube ! Infundibulum of uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000001" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AbdominalPartOfUreter
+name: Abdominal part of ureter
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ureter ! Ureter
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000002" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Acinus
+name: Acinus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExocrinePancreas ! Exocrine pancreas
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SecretoryPortion ! Secretory portion
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000003" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000004" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Adenohypophysis
+name: Adenohypophysis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Hypophysis ! Hypophysis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000005" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Adipose
+name: Adipose
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000006" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalCortex
+name: Adrenal cortex
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalGland ! Adrenal gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000007" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalGland
+name: Adrenal gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000008" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalMedulla
+name: Adrenal medulla
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalGland ! Adrenal gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000009" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Amnion
+name: Amnion
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Placenta ! Placenta
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000010" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AmpullaOfUterineTube
+name: Ampulla of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineTube ! Uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000011" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AnalCanal
+name: Anal canal
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000012" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AngularGyrus
+name: Angular gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000013" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AnteriorCommissure
+name: Anterior commissure
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000014" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ApexOfBladder
+name: Apex of bladder
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bladder ! Bladder
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000015" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ApocrineSweatGland
+name: Apocrine sweat gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SweatGland ! Sweat gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000016" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Appendix
+name: Appendix
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000017" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AscendingPart
+name: Ascending part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duodenum ! Duodenum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000018" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Atrium
+name: Atrium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Heart ! Heart
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000019" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BasalLayer
+name: Basal layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Endometrium ! Endometrium
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000020" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BileCanaliculi
+name: Bile canaliculi
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule ! Hepatic lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000021" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bladder
+name: Bladder
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UrinarySystem ! Urinary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000022" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Blood
+name: Blood
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CardiovascularSystem ! Cardiovascular system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000023" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body
+name: Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000000" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BodyOfBladder
+name: Body of bladder
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bladder ! Bladder
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000024" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BodyOfStomach
+name: Body of stomach
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Stomach ! Stomach
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000025" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BodyOfUterus
+name: Body of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000026" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow
+name: Bone marrow
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ImmuneSystem ! Immune system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SkeletalSystem ! Skeletal system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000027" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000028" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMatrix
+name: Bone matrix
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow ! Bone marrow
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000029" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brain
+name: Brain
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NervousSystem ! Nervous system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000030" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem
+name: Brainstem
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brain ! Brain
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000031" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bronchi
+name: Bronchi
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem ! Respiratory system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000032" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CalcarineSulcus
+name: Calcarine sulcus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000033" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CanalOfCervixOfUterus
+name: Canal of cervix of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeckOfUterus ! Neck of uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000034" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CapillaryBasalMembrane
+name: Capillary basal membrane
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PlacentalBarrier ! Placental barrier
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000035" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CapillaryEndothelium
+name: Capillary endothelium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PlacentalBarrier ! Placental barrier
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000036" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Capsule
+name: Capsule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalGland ! Adrenal gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thyroid ! Thyroid
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000037" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000038" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CardiacPart
+name: Cardiac part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BodyOfStomach ! Body of stomach
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000039" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CardiovascularSystem
+name: Cardiovascular system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000040" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cartiage
+name: Cartiage
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow ! Bone marrow
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000041" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CavernousPart
+name: Cavernous part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000042" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CavityOfUterus
+name: Cavity of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BodyOfUterus ! Body of uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000043" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cecum
+name: Cecum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000044" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CentralSulcusOfRolando
+name: Central sulcus of rolando
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000045" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CentralVein
+name: Central vein
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule ! Hepatic lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000046" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebellum
+name: Cerebellum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brain ! Brain
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000047" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum
+name: Cerebrum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brain ! Brain
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000048" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ChorionicMembrane
+name: Chorionic membrane
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Placenta ! Placenta
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000049" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Choroid
+name: Choroid
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VascularTunic ! Vascular tunic
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000050" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CillaryBody
+name: Cillary body
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VascularTunic ! Vascular tunic
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000051" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CingulateGyrus
+name: Cingulate gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000052" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CingulateSulcus
+name: Cingulate sulcus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000053" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Colon
+name: Colon
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000055" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CordBlood
+name: Cord blood
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Blood ! Blood
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000056" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cornea
+name: Cornea
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FibrousTunic ! Fibrous tunic
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000057" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CorpusCallosum
+name: Corpus callosum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000058" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cortex
+name: Cortex
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IncompleteThymicLobules ! Incomplete thymic lobules
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000059" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CostalPleura
+name: Costal pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietalPleura ! Parietal pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000060" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CostodiaphragmaticRecess
+name: Costodiaphragmatic recess
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PleuraRecesses ! Pleura recesses
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000061" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CostomediastinalRecess
+name: Costomediastinal recess
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PleuraRecesses ! Pleura recesses
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000062" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cuneus
+name: Cuneus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000063" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CupulaOfPleura
+name: Cupula of pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietalPleura ! Parietal pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000064" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CysticDuct
+name: Cystic duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Gallbladder ! Gallbladder
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000065" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cytotrophoblast
+name: Cytotrophoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Trophoblast ! Trophoblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000066" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DeciduaBasalis
+name: Decidua basalis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Placenta ! Placenta
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000067" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DenseChorionicMembrane
+name: Dense chorionic membrane
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ChorionicMembrane ! Chorionic membrane
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000068" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DescendingPart
+name: Descending part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duodenum ! Duodenum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000069" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DiaphragmaticPleura
+name: Diaphragmatic pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietalPleura ! Parietal pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000070" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Diarthrose
+name: Diarthrose
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Joint ! Joint
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000071" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem
+name: Digestive system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000072" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duct
+name: Duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExocrinePancreas ! Exocrine pancreas
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000073" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DuctalPortion
+name: Ductal portion
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EccrineSweatGland ! Eccrine sweat gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SebaceousGland ! Sebaceous gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000074" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000075" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duodenum
+name: Duodenum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000076" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EccrineSweatGland
+name: Eccrine sweat gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SweatGland ! Sweat gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000077" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem
+name: Endocrine system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000078" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Endometrium
+name: Endometrium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000079" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Endosteum
+name: Endosteum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow ! Bone marrow
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000080" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Epiglottis
+name: Epiglottis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Larynx ! Larynx
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000081" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExocrinePancreas
+name: Exocrine pancreas
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pancreas ! Pancreas
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000082" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExternalAdventitia
+name: External adventitia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/GallbladderWall ! Gallbladder wall
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000083" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExternalOrificeOfUrethra
+name: External orifice of urethra
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000084" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye
+name: Eye
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NervousSystem ! Nervous system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000085" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FibrousMembrane
+name: Fibrous membrane
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExternalAdventitia ! External adventitia
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000086" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FibrousTunic
+name: Fibrous tunic
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye ! Eye
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000087" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FimbriaeOfUterineTube
+name: Fimbriae of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InfundibulumOfUterineTube ! Infundibulum of uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000088" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Follicle
+name: Follicle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lobule ! Lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000089" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Fornix
+name: Fornix
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000090" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FrontalPole
+name: Frontal pole
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000091" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FunctionalLayer
+name: Functional layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Endometrium ! Endometrium
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000092" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FundusOfBladder
+name: Fundus of bladder
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bladder ! Bladder
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000093" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FundusOfStomach
+name: Fundus of stomach
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Stomach ! Stomach
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000094" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FundusOfUterus
+name: Fundus of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000095" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Gallbladder
+name: Gallbladder
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000096" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/GallbladderWall
+name: Gallbladder wall
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Gallbladder ! Gallbladder
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000097" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ganglia
+name: Ganglia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PeripheralNerveSystem ! Peripheral nerve system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000098" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Heart
+name: Heart
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CardiovascularSystem ! Cardiovascular system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000099" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule
+name: Hepatic lobule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Liver ! Liver
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000100" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticPlate
+name: Hepatic plate
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule ! Hepatic lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000101" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticSinusoid
+name: Hepatic sinusoid
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule ! Hepatic lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000102" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HorizonalPart
+name: Horizonal part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duodenum ! Duodenum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000103" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Hypophysis
+name: Hypophysis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000104" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ileum
+name: Ileum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000105" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ImmuneSystem
+name: Immune system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000106" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IncompleteThymicLobules
+name: Incomplete thymic lobules
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thymus ! Thymus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000107" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InferiorColliculus
+name: Inferior colliculus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem ! Brainstem
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000108" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InferiorFrontalGyrus
+name: Inferior frontal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000109" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InferiorLobular
+name: Inferior lobular
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftLung ! Left lung
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000110" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InferiorParietalLobule
+name: Inferior parietal lobule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000111" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InferiorTemporalGyrus
+name: Inferior temporal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000112" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InfundibulumOfUterineTube
+name: Infundibulum of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineTube ! Uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000113" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntegumentarySystem
+name: Integumentary system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000114" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntercalatedDuct
+name: Intercalated duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duct ! Duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000115" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InterlobularArtery
+name: Interlobular artery
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PortalArea ! Portal area
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000116" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InterlobularBileDuct
+name: Interlobular bile duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PortalArea ! Portal area
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000117" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InterlobularDuct
+name: Interlobular duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duct ! Duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000118" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InterlobularVein
+name: Interlobular vein
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PortalArea ! Portal area
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000119" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntermediateLayer
+name: Intermediate layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Myometirum ! Myometirum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000120" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/InternalOrificeOfUrethra
+name: Internal orifice of urethra
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000121" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Intestine
+name: Intestine
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000122" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntralobularDuct
+name: Intralobular duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duct ! Duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000123" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntramuralPartOfUreter
+name: Intramural part of ureter
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ureter ! Ureter
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000124" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Iris
+name: Iris
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VascularTunic ! Vascular tunic
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000125" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Isthmus
+name: Isthmus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thyroid ! Thyroid
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000126" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IsthmusOfUterus
+name: Isthmus of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000127" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IsthumusOfUterineTube
+name: Isthumus of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineTube ! Uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000128" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Jejunum
+name: Jejunum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000129" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Joint
+name: Joint
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow ! Bone marrow
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000130" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/JuxtaglomerularComplex
+name: Juxtaglomerular complex
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Kidney ! Kidney
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000131" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Kidney
+name: Kidney
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UrinarySystem ! Urinary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000132" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000133" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LaminaPropria
+name: Lamina propria
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Mucosa ! Mucosa
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000134" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LaminaTerminalis
+name: Lamina terminalis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000135" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LaryngealVestibule
+name: Laryngeal vestibule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Larynx ! Larynx
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000136" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Larynx
+name: Larynx
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem ! Respiratory system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000137" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftAtrium
+name: Left atrium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Atrium ! Atrium
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000138" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftLung
+name: Left lung
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lung ! Lung
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000139" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftPrincipalBronchus
+name: Left principal bronchus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bronchi ! Bronchi
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000140" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftVentricle
+name: Left ventricle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ventricle ! Ventricle
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000141" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lens
+name: Lens
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye ! Eye
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000142" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Leydig
+name: Leydig
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis ! Testis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000143" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LimitingPlate
+name: Limiting plate
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/HepaticLobule ! Hepatic lobule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000144" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Liver
+name: Liver
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000145" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lobe
+name: Lobe
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thyroid ! Thyroid
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000146" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lobule
+name: Lobule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lobe ! Lobe
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000147" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lung
+name: Lung
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem ! Respiratory system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000148" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MainPancreaticDuct
+name: Main pancreatic duct
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duct ! Duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000149" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MediastinalPleura
+name: Mediastinal pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietalPleura ! Parietal pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000150" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Medulla
+name: Medulla
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IncompleteThymicLobules ! Incomplete thymic lobules
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000151" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MedullaOblongata
+name: Medulla oblongata
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem ! Brainstem
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000152" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MembranousPart
+name: Membranous part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000153" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MiddleFrontalGyrus
+name: Middle frontal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000154" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MiddleTemporalGyrus
+name: Middle temporal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000155" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Mucosa
+name: Mucosa
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/GallbladderWall ! Gallbladder wall
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000156" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MucousMembrane
+name: Mucous membrane
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CysticDuct ! Cystic duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000157" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Muscle
+name: Muscle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MuscularSystem ! Muscular system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000158" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/MuscularSystem
+name: Muscular system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000159" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Muscularis
+name: Muscularis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CysticDuct ! Cystic duct
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000160" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Myometirum
+name: Myometirum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000161" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavities
+name: Nasal cavities
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem ! Respiratory system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000162" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavity
+name: Nasal cavity
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavities ! Nasal cavities
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000163" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeckOfUterus
+name: Neck of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000164" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NerveEndings
+name: Nerve endings
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PeripheralNerveSystem ! Peripheral nerve system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000165" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Nerves
+name: Nerves
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PeripheralNerveSystem ! Peripheral nerve system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000166" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NervousSystem
+name: Nervous system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000167" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer
+name: Neural layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Retina ! Retina
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000168" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Neurohypophysis
+name: Neurohypophysis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Hypophysis ! Hypophysis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000169" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OccipitalPole
+name: Occipital pole
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000170" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Oesophagus
+name: Oesophagus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000171" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OlfactoryRegion
+name: Olfactory region
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavity ! Nasal cavity
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000172" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OralCavity
+name: Oral cavity
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000173" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OralCavityMucosa
+name: Oral cavity mucosa
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OralCavity ! Oral cavity
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000174" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OrifaceOfUterus
+name: Oriface of uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeckOfUterus ! Neck of uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000175" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OvarianFimbria
+name: Ovarian fimbria
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FimbriaeOfUterineTube ! Fimbriae of uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000176" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ovary
+name: Ovary
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000177" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000178" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pancreas
+name: Pancreas
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000179" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000180" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PancreasIslet
+name: Pancreas islet
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pancreas ! Pancreas
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000181" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParDistalis
+name: Par distalis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Adenohypophysis ! Adenohypophysis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000182" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParIntermedia
+name: Par intermedia
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Adenohypophysis ! Adenohypophysis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000183" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParTuberalis
+name: Par tuberalis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Adenohypophysis ! Adenohypophysis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000184" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParacentralLobule
+name: Paracentral lobule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000185" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParanasalSinuses
+name: Paranasal sinuses
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavities ! Nasal cavities
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000186" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParaterminalGyrus
+name: Paraterminal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000187" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParaurethralGland
+name: Paraurethral gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000188" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietalPleura
+name: Parietal pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pleura ! Pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000189" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParietooccipitalSulcus
+name: Parietooccipital sulcus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000190" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ParotidGland
+name: Parotid gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SalivaryGland ! Salivary gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000191" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PelvicPartOfUreter
+name: Pelvic part of ureter
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ureter ! Ureter
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000192" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Perimetrium
+name: Perimetrium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus ! Uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000193" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Periosteum
+name: Periosteum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/BoneMarrow ! Bone marrow
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000194" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PeripheralBlood
+name: Peripheral blood
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Blood ! Blood
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000195" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PeripheralNerveSystem
+name: Peripheral nerve system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NervousSystem ! Nervous system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000196" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pharynx
+name: Pharynx
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000197" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PhrennicomediastinalRecess
+name: Phrennicomediastinal recess
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PleuraRecesses ! Pleura recesses
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000198" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PigmentedLayer
+name: Pigmented layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Retina ! Retina
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000199" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PinealGland
+name: Pineal gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000200" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Placenta
+name: Placenta
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000201" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PlacentalBarrier
+name: Placental barrier
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Placenta ! Placenta
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000202" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PlacentalSeptum
+name: Placental septum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DeciduaBasalis ! Decidua basalis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000203" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pleura
+name: Pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem ! Respiratory system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000204" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PleuraCavity
+name: Pleura cavity
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pleura ! Pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000205" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PleuraRecesses
+name: Pleura recesses
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pleura ! Pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000206" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pons
+name: Pons
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem ! Brainstem
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000207" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PortalArea
+name: Portal area
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Liver ! Liver
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000208" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PostcentralGyrus
+name: Postcentral gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000209" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PosteriorCommissure
+name: Posterior commissure
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000210" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PrecentralGyrus
+name: Precentral gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000211" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PrecentralSulcus
+name: Precentral sulcus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000212" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Precuneus
+name: Precuneus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000213" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PrimaryVilli
+name: Primary villi
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DenseChorionicMembrane ! Dense chorionic membrane
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000214" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Prostate
+name: Prostate
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000215" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ProstaticPart
+name: Prostatic part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra ! Urethra
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000216" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PyloricPart
+name: Pyloric part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Stomach ! Stomach
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000217" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/QuadrigeminalLamina
+name: Quadrigeminal lamina
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem ! Brainstem
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000218" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Rectum
+name: Rectum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000219" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RenalCorpuscle
+name: Renal corpuscle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Kidney ! Kidney
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000220" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RenalTubule
+name: Renal tubule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Kidney ! Kidney
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000221" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem
+name: Reproductive system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000222" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratoryRegion
+name: Respiratory region
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavity ! Nasal cavity
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000223" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RespiratorySystem
+name: Respiratory system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000224" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReteTestis
+name: Rete testis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis ! Testis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000225" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Retina
+name: Retina
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye ! Eye
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000226" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Rib
+name: Rib
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SkeletalSystem ! Skeletal system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000227" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RightAtrium
+name: Right atrium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Atrium ! Atrium
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000228" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RightLung
+name: Right lung
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Lung ! Lung
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000229" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RightPrincipalBronchus
+name: Right principal bronchus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Bronchi ! Bronchi
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000230" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/RightVentricle
+name: Right ventricle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ventricle ! Ventricle
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000231" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SalivaryGland
+name: Salivary gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000232" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Sclera
+name: Sclera
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/FibrousTunic ! Fibrous tunic
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000233" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SebaceousGland
+name: Sebaceous gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntegumentarySystem ! Integumentary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000234" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SecondaryVilli
+name: Secondary villi
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DenseChorionicMembrane ! Dense chorionic membrane
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000235" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SecretoryPortion
+name: Secretory portion
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EccrineSweatGland ! Eccrine sweat gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SebaceousGland ! Sebaceous gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000236" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000237" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SeminiferousTubule
+name: Seminiferous tubule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis ! Testis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000238" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SeptumPellucidum
+name: Septum pellucidum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000239" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Serosa
+name: Serosa
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ExternalAdventitia ! External adventitia
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000240" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SkeletalSystem
+name: Skeletal system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000241" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Skin
+name: Skin
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntegumentarySystem ! Integumentary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000242" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SpermatogenicEpithelium
+name: Spermatogenic epithelium
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SeminiferousTubule ! Seminiferous tubule
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000243" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SpinalCord
+name: Spinal cord
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NervousSystem ! Nervous system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000244" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Spleen
+name: Spleen
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ImmuneSystem ! Immune system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000245" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Stomach
+name: Stomach
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DigestiveSystem ! Digestive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000246" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SubcallosalArea
+name: Subcallosal area
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000247" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SublingualGland
+name: Sublingual gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SalivaryGland ! Salivary gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000248" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SubmandibularGland
+name: Submandibular gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SalivaryGland ! Salivary gland
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000249" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SubmucosaLayer
+name: Submucosa layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Myometirum ! Myometirum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000250" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SubserousLayer
+name: Subserous layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Myometirum ! Myometirum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000251" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SulcusOfCorpusCallosum
+name: Sulcus of corpus callosum
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000252" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SuperiorColliculus
+name: Superior colliculus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Brainstem ! Brainstem
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000253" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SuperiorLobular
+name: Superior lobular
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/LeftLung ! Left lung
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000254" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SuperiorParietalLobule
+name: Superior parietal lobule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000255" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SuperiorPart
+name: Superior part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Duodenum ! Duodenum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000256" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SuperiorTemporalGyrus
+name: Superior temporal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000257" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SupramarginalGyrus
+name: Supramarginal gyrus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000258" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SupravaginalPartOfCervix
+name: Supravaginal part of cervix
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeckOfUterus ! Neck of uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000259" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/SweatGland
+name: Sweat gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/IntegumentarySystem ! Integumentary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000260" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Synarthrose
+name: Synarthrose
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Joint ! Joint
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000261" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Syncytiotrophoblast
+name: Syncytiotrophoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Trophoblast ! Trophoblast
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000262" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TemporalPole
+name: Temporal pole
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Cerebrum ! Cerebrum
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000263" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TertiaryVilli
+name: Tertiary villi
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/DenseChorionicMembrane ! Dense chorionic membrane
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000264" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TesticularLobules
+name: Testicular lobules
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis ! Testis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000265" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis
+name: Testis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000266" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000267" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheGanglionicLayer
+name: The ganglionic layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000268" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheInnerLimitingLayer
+name: The inner limiting layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000269" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheInnerPlexiformLayer
+name: The inner plexiform layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000270" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheNerveFiberLayer
+name: The nerve fiber layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000271" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheOuterLimitingLayer
+name: The outer limiting layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000273" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheOuterNuclearLayer
+name: The outer nuclear layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000274" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheOuterPlexifomLayer
+name: The outer plexifom layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000275" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TheRodAndConeLayer
+name: The rod and cone layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeuralLayer ! Neural layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000276" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thenon-neuralPigmentedLayer
+name: The non-neural pigmented layer
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PigmentedLayer ! Pigmented layer
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000272" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thymus
+name: Thymus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ImmuneSystem ! Immune system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000277" xsd:string
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000278" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Thyroid
+name: Thyroid
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/EndocrineSystem ! Endocrine system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000279" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Tongue
+name: Tongue
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OralCavity ! Oral cavity
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000280" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Tooth
+name: Tooth
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/OralCavity ! Oral cavity
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000281" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Trophoblast
+name: Trophoblast
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/PlacentalBarrier ! Placental barrier
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000282" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/TubulusRectus
+name: Tubulus rectus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Testis ! Testis
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000283" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ureter
+name: Ureter
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UrinarySystem ! Urinary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000284" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Urethra
+name: Urethra
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UrinarySystem ! Urinary system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000285" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UrinarySystem
+name: Urinary system
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Body ! Body
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000286" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineGland
+name: Uterine gland
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Endometrium ! Endometrium
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000287" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineOrificeOfUterineTube
+name: Uterine orifice of uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterinePart ! Uterine part
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000288" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterinePart
+name: Uterine part
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineTube ! Uterine tube
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000289" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/UterineTube
+name: Uterine tube
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000290" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Uterus
+name: Uterus
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ReproductiveSystem ! Reproductive system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000291" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VaginalPartOfCervix
+name: Vaginal part of cervix
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NeckOfUterus ! Neck of uterus
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000292" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VascularTunic
+name: Vascular tunic
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye ! Eye
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000293" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Ventricle
+name: Ventricle
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Heart ! Heart
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000294" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Vessel
+name: Vessel
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/CardiovascularSystem ! Cardiovascular system
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000295" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VestibularFolds
+name: Vestibular folds
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Larynx ! Larynx
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000296" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Vestibule
+name: Vestibule
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/NasalCavities ! Nasal cavities
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000297" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VisceralPleura
+name: Visceral pleura
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Pleura ! Pleura
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000298" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VitreousBody
+name: Vitreous body
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Eye ! Eye
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000299" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/VocalFolds
+name: Vocal folds
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/Larynx ! Larynx
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000300" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ZonaFasciculata
+name: Zona fasciculata
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalCortex ! Adrenal cortex
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000301" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ZonaGlomerulosa
+name: Zona glomerulosa
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalCortex ! Adrenal cortex
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000302" xsd:string
+
+[Term]
+id: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/ZonaReticularis
+name: Zona reticularis
+is_a: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/AdrenalCortex ! Adrenal cortex
+property_value: http://www.semanticweb.org/user/ontologies/2021/7/untitled-ontology-15/id "UHAF_2000-000303" xsd:string
+
