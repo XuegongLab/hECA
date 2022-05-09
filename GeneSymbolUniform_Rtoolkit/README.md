@@ -14,10 +14,10 @@ For current version, the dplyr should be lower than 1.0.1 (not included).
 `cd path_to_this_dir`  
   
     Then execute the following command:  
-`Rscript RToolkit_GeneSymbolUniform.R [query_obj_path] [output_dir]`  
+`Rscript RToolkit_GeneSymbolUniform.R [query_path] [output_dir]`  
   
     where:  
-    query_obj_path: The absolute path of Seurat object to be processed.    
+    query_path: The absolute path of query dataset to be processed (txt).    
     output_dir: The absolute path to receive output files.    
   
 3. There would be some notices if one processing stage is finished.  
