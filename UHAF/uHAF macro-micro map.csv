@@ -2,7 +2,6 @@ organ,cell_type
 Adipose,Adipocyte
 Adipose,Fibroblast
 Adipose,Macrophage
-Adipose,Unclassified
 Adrenal gland,Endothelial cell
 Adrenal gland,Macrophage
 Adrenal gland,Neuron
@@ -33,7 +32,6 @@ Blood,NK cell
 Blood,Plasma B cell
 Blood,Plasmacytoid dendritic cell
 Blood,T cell
-Blood,Unclassified
 Bone marrow,Conventional dendritic cell
 Bone marrow,Erythrocyte
 Bone marrow,Hemopoietic stem cell
@@ -44,7 +42,6 @@ Bone marrow,Plasma B cell
 Bone marrow,T cell
 Brain,Astrocyte
 Brain,Endothelial cell
-Brain,Endothelial cell/Pericyte
 Brain,Ependymal cell
 Brain,Erythrocyte
 Brain,Excitatory neuron
@@ -56,25 +53,20 @@ Brain,Neuron
 Brain,Oligodendrocyte
 Brain,Oligodendrocyte precursor cell
 Brain,Oligodendrocyte progenitor cell
-Brain,Oligodendrocyte/Astrocyte
 Brain,Progenitor cell
 Brain,Proliferating cell
 Brain,Purkinje cell
 Brain,PV inhibitory neuron
-Brain,Unclassified
 Brain,Vascular cell
 Brain,VIP inhibitory neuron
 Bronchi,B cell
 Bronchi,Basal cell
-Bronchi,Brush cell/Perineural epithelial cell
 Bronchi,Chondrocyte
 Bronchi,Ciliated columnar cell
 Bronchi,Endothelial cell
 Bronchi,Fibrocyte
 Bronchi,Goblet cell
-Bronchi,Goblet cell/Basal cell
-Bronchi,Goblet cell/Ciliated columnar cell
-Bronchi,lonocyte
+Bronchi,Ionocyte
 Bronchi,Macrophage
 Bronchi,Perineural epithelial cell
 Bronchi,Smooth muscle cell
@@ -93,7 +85,6 @@ Colon,Schwann cell
 Colon,Smooth muscle cell
 Colon,Stromal cell
 Colon,T cell
-Colon,Unclassified
 Duodenum,B cell
 Duodenum,Endothelial cell
 Duodenum,Enterocyte
@@ -115,13 +106,10 @@ Eye,Horizontal cell
 Eye,Melanocyte
 Eye,Microglia
 Eye,Muller cell
-Eye,Pericyte/Smooth muscle cell
 Eye,Pigment epithelial cell
 Eye,Retinal ganglion cell
 Eye,Rod cell
 Eye,Schwann cell
-Eye,T cell/NK cell
-Eye,Unclassified
 Eye,Vascular epithelial cell
 Gallbladder,B cell
 Gallbladder,Dendritic cell
@@ -149,7 +137,6 @@ Heart,Neutrophilic granulocyte
 Heart,Pericyte
 Heart,Smooth muscle cell
 Heart,T cell
-Heart,Unclassified
 Heart,Vascular endothelial cell
 Ileum,B cell
 Ileum,Dendritic cell
@@ -178,8 +165,6 @@ Intestine,Goblet cell
 Intestine,Granulocyte
 Intestine,Lymphatic endothelial cell
 Intestine,Macrophage
-Intestine,Macrophage/Granulocyte
-Intestine,Macrophage/Neutrophilic granulocyte
 Intestine,Mast cell
 Intestine,Mesothelial cell
 Intestine,Myofibroblast
@@ -191,7 +176,6 @@ Intestine,Schwann cell
 Intestine,Smooth muscle cell
 Intestine,Stromal cell
 Intestine,T cell
-Intestine,Unclassified
 Intestine,Vascular endothelial cell
 Jejunum,B cell
 Jejunum,Endothelial cell
@@ -213,7 +197,6 @@ Kidney,Erythrocyte
 Kidney,Erythroid progenitor cell
 Kidney,Fibroblast
 Kidney,Intercalated cell
-Kidney,Intercalated cell/Princple cell
 Kidney,Loop of henle
 Kidney,Loop of henle progenitor
 Kidney,Macrophage
@@ -231,7 +214,6 @@ Kidney,Proximal convoluted tubule
 Kidney,Proximal convoluted tubule progenitor
 Kidney,Smooth muscle cell
 Kidney,T cell
-Kidney,Unclassified
 Kidney,Ureteric bud cell
 Kidney,Ureteric epithelial cell
 Liver,B cell
@@ -242,7 +224,7 @@ Liver,Erythrocyte
 Liver,Granulocyte
 Liver,Haematopoietic stem and progenitor cell
 Liver,Hepatocyte
-Liver,Kuppfer cell
+Liver,Kupffer cell
 Liver,Macrophage
 Liver,Mast cell
 Liver,Monocyte
@@ -250,7 +232,6 @@ Liver,Neutrophilic granulocyte
 Liver,Proliferating T cell
 Liver,Smooth muscle cell
 Liver,T cell
-Liver,Unclassified
 Lung,B cell
 Lung,CD8 T cell
 Lung,Chondrocyte
@@ -279,9 +260,7 @@ Lung,Proximal progenitor cell
 Lung,Smooth muscle cell
 Lung,T cell
 Lung,Type I alveolar cell
-Lung,Type I alveolar cell/Type II alveolar cell
 Lung,Type II alveolar cell
-Lung,Unclassified
 Lung,Vascular endothelial cell
 Muscle,Autonomic nervous system
 Muscle,B cell
@@ -301,26 +280,22 @@ Muscle,Smooth muscle cell
 Muscle,Stromal cell
 Muscle,T cell
 Muscle,Tendon cell
-Muscle,Unclassified
 Oesophagus,B cell
 Oesophagus,Dendritic cell
 Oesophagus,Endothelial cell
 Oesophagus,Epithelial cell
 Oesophagus,Mast cell
 Oesophagus,T cell
-Ovary,Dendritic cell/Macrophage
 Ovary,Endothelial cell
 Ovary,Epithelial cell
 Ovary,Epithelial progenitor cell
 Ovary,Erythrocyte
 Ovary,Fibroblast
 Ovary,Germ cell
-Ovary,Germ cell/Theca cell
 Ovary,Macrophage
 Ovary,Smooth muscle cell
 Ovary,Stromal cell
 Ovary,T cell
-Ovary,Unclassified
 Pancreas,Acinar cell
 Pancreas,Alpha cell
 Pancreas,B cell
@@ -348,7 +323,6 @@ Pancreas,T cell
 Placenta,Epithelial cell
 Placenta,Erythrocyte
 Placenta,Macrophage
-Placenta,Stromal cell/Macrophage
 Pleura,Fibrocyte
 Pleura,Macrophage
 Pleura,Mesothelium
@@ -365,7 +339,6 @@ Prostate,Neuroendocrine cell
 Prostate,NK T cell
 Prostate,Smooth muscle cell
 Prostate,T cell
-Prostate,Unclassified
 Rectum,B cell
 Rectum,Enteric glial cell
 Rectum,Enterocyte
@@ -375,7 +348,6 @@ Rectum,Mast cell
 Rectum,Plasma B cell
 Rectum,Stromal cell
 Rectum,T cell
-Rectum,Unclassified
 Rib,Chondrocyte
 Rib,Endothelial cell
 Rib,Erythrocyte
@@ -431,7 +403,6 @@ Stomach,Pit cell
 Stomach,Smooth muscle cell
 Stomach,Stromal cell
 Stomach,T cell
-Stomach,Unclassified
 Testis,Acinar cell
 Testis,Differentiated spermatogonia
 Testis,Differentiating spermatogonia
@@ -440,16 +411,12 @@ Testis,Erythrocyte
 Testis,Fasciculata cell
 Testis,Fibroblast
 Testis,Mesenchymal stromal cell
-Testis,Monocyte/Neutrophilic granulocyte
 Testis,Neutrophilic granulocyte
-Testis,Neutrophilic granulocyte/Basophilic granulocyte
-Testis,Neutrophilic granulocyte/Eosinophilic granulocyte
 Testis,NK T cell
 Testis,Sertoli cell
 Testis,Spermatogenic cell
 Testis,Spermatogonial stem cell
 Testis,Tubule cell
-Testis,Unclassified
 Thymus,Activated T cell
 Thymus,Conventional dendritic cell
 Thymus,Erythrocyte
@@ -471,10 +438,9 @@ Thyroid,T cell
 Ureter,B cell
 Ureter,Basal cell
 Ureter,Monocyte
-Ureter,Stroma cell
+Ureter,Stromal cell
 Ureter,Superficial cell
 Ureter,T cell
-Ureter,Unclassified
 Ureter,Urothelial cell
 Uterine tube,B cell
 Uterine tube,Endothelial cell
@@ -485,14 +451,11 @@ Uterine tube,Mast cell
 Uterine tube,Neutrophilic granulocyte
 Uterine tube,Smooth muscle cell
 Uterine tube,Stromal cell
-Uterine tube,T cell/CD8_T cell
 Uterus,Endothelial cell
 Uterus,Epithelial cell
 Uterus,Macrophage
 Uterus,Smooth muscle cell
 Uterus,Stromal cell
-Uterus,Stromal cell/B cell
-Uterus,T cell/Mast cell
 Vessel,B cell
 Vessel,Basal cell
 Vessel,Endothelial cell
