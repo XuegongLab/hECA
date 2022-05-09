@@ -3,6 +3,8 @@ print("=========Task Started!=========")
 suppressMessages(suppressWarnings(library(Seurat)))
 suppressMessages(suppressWarnings(library(stringr)))
 suppressMessages(suppressWarnings(library(dplyr)))
+suppressMessages(library(data.table))
+suppressMessages(library(rlist))
 
 args <- commandArgs(trailingOnly=TRUE)
 query_dir <- args[1]
@@ -56,14 +58,16 @@ print("Finished")
 # *--------------------Load query data--------------------*
 print("=========Loading Query Data=========")
 # query_dir <- "/Users/ljq/Desktop/Jejunum_Jejunum_HCLAdultJejunum2.seuratobj.rds"
-query_obj <- readRDS(query_dir)
+# query_obj <- readRDS(query_dir)
 # For large sparse matrix, we use the auxilary function "as_matrix" to convert it to matrix
-if(dim(query_obj@assays$RNA@data)[2]>30000){
-  query_data <- as.data.frame(as_matrix(query_obj@assays$RNA@data))
-}else{
-  query_data <- as.data.frame(as.matrix(query_obj@assays$RNA@data))
-}
-query_gene_list <- rownames(query_obj)
+# if(dim(query_obj@assays$RNA@data)[2]>30000){
+#   query_data <- as.data.frame(as_matrix(query_obj@assays$RNA@data))
+# }else{
+#   query_data <- as.data.frame(as.matrix(query_obj@assays$RNA@data))
+# }
+
+query_data <- read.txt(query_dir, header=T, row.names=1)
+query_gene_list <- rownames(query_data)
 print("The shape of query data is: ")
 print(dim(query_data))
 print("Print out first 5 genes in query data, in case something wrong happens in data loading: ")
@@ -164,7 +168,34 @@ print("Finished")
       
 # *--------------------Construct uniform output--------------------*
 print("=========Building Output Matrix=========")
-result_data_grouped <- result_data %>% group_by(genenames) %>% summarise_at(vars(-group_cols()), mean)
+if(dim(result_data)[2]-1>20000){
+    print("DataFrame too large, process separately...")
+    result_data_grouped_list <- list()
+    sep <- 20000
+    slices <- dim(result_data)[2] %/% sep
+    for(i in c(1:(slices+1))){
+        if(i<=slices){
+            result_data_sep <- result_data[,(sep*(i-1)+1):(sep*i)]
+        }else{
+            result_data_sep <- result_data[,(sep*(i-1)+1):(dim(result_data)[2]-1)]   #最后一列是genenames
+        }
+        result_data_sep$genenames <- result_data$genenames
+        setDT(result_data_sep)
+        colstoavg <- names(result_data_sep)[1:(dim(result_data_sep)[2]-1)]
+        result_data_grouped_sep <- result_data_sep[,lapply(.SD, mean, na.rm=TRUE),by=genenames,.SDcols=colstoavg]
+        result_data_grouped_list[[i]] <- subset(result_data_grouped_sep, select = -genenames)
+    }
+    print("Merge...")
+    result_data_grouped <- list.cbind(result_data_grouped_list)
+    result_data_grouped$genenames <- result_data_grouped_sep$genenames
+    print(dim(result_data_grouped))
+}else{
+    setDT(result_data)
+    colstoavg <- names(result_data)[1:(dim(result_data)[2]-1)]
+    result_data_grouped <- result_data[,lapply(.SD, mean, na.rm=TRUE),by=genenames,.SDcols=colstoavg]
+}
+
+
 result_data_sub <- as.data.frame(result_data_grouped)[which(!result_data_grouped$genenames %in% outlier_gene_list),]
 result_data_out <- subset(result_data_sub, select = -genenames )
 rownames(result_data_out) <- result_data_sub$genenames
@@ -184,6 +215,8 @@ print("Finished")
 # *--------------------Write output and report--------------------*
 setwd(out_dir)
 print("Writing output files, please wait...")
+# result_obj_out <- CreateSeuratObject(counts=result_data_out)
+# saveRDS(result_obj_out, "UniformedSeuratObj.rds")
 write.csv(result_data_out, file="UniformedExpression.csv")
 write.csv(report, file="ModificationReport.csv")
 print("=========Output Files Saved!=========")
